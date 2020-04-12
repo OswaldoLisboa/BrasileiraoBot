@@ -1,3 +1,6 @@
+venv/
 .DS_Store
 credentials.py
-venv/
+data.py
+league.py
+requirements.txt
