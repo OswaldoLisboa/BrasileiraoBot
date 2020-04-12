@@ -1,0 +1,2242 @@
+type,msg,img,datetime,sent
+sc,"Rodada 1 - Jogo 1
+
+@Flamengo 3 - 0 @Atletico",scores/Flamengo-Atlético Mineiro.jpg,2020-04-14 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @ECBahia",next-match/Botafogo-Bahia.jpg,2020-04-14 14:05:00,False
+sc,"Rodada 1 - Jogo 2
+
+@Botafogo 1 - 2 @ECBahia",scores/Botafogo-Bahia.jpg,2020-04-14 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @VascodaGama",next-match/Palmeiras-Vasco.jpg,2020-04-14 15:05:00,False
+sc,"Rodada 1 - Jogo 3
+
+@Palmeiras 0 - 2 @VascodaGama",scores/Palmeiras-Vasco.jpg,2020-04-14 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @RedBullBraga",next-match/Santos-Red Bull Bragantino.jpg,2020-04-14 16:05:00,False
+sc,"Rodada 1 - Jogo 4
+
+@SantosFC 1 - 0 @RedBullBraga",scores/Santos-Red Bull Bragantino.jpg,2020-04-14 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @ACGOficial",next-match/Corinthians-Atlético Goianiense.jpg,2020-04-14 17:05:00,False
+sc,"Rodada 1 - Jogo 5
+
+@Corinthians 1 - 1 @ACGOficial",scores/Corinthians-Atlético Goianiense.jpg,2020-04-14 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @FluminenseFC",next-match/Grêmio-Fluminense.jpg,2020-04-14 18:05:00,False
+sc,"Rodada 1 - Jogo 6
+
+@Gremio 1 - 0 @FluminenseFC",scores/Grêmio-Fluminense.jpg,2020-04-14 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @CearaSC",next-match/Sport-Ceará.jpg,2020-04-14 19:05:00,False
+sc,"Rodada 1 - Jogo 7
+
+@sportrecife 5 - 1 @CearaSC",scores/Sport-Ceará.jpg,2020-04-14 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @SCInternacional",next-match/Coritiba-Internacional.jpg,2020-04-14 20:05:00,False
+sc,"Rodada 1 - Jogo 8
+
+@Coritiba 4 - 1 @SCInternacional",scores/Coritiba-Internacional.jpg,2020-04-14 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @AthleticoPR",next-match/Fortaleza-Athletico Paranaense.jpg,2020-04-14 21:05:00,False
+sc,"Rodada 1 - Jogo 9
+
+@FortalezaEC 1 - 3 @AthleticoPR",scores/Fortaleza-Athletico Paranaense.jpg,2020-04-14 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @SaoPauloFC",next-match/Goiás-São Paulo.jpg,2020-04-14 22:05:00,False
+sc,"Rodada 1 - Jogo 10
+
+@goiasoficial 0 - 2 @SaoPauloFC",scores/Goiás-São Paulo.jpg,2020-04-14 23:00:00,False
+st,Classificação:,standings/1.jpg,2020-04-14 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/2.jpg,2020-04-14 23:10:00,False
+sc,"Rodada 2 - Jogo 1
+
+@FluminenseFC 0 - 2 @Palmeiras",scores/Fluminense-Palmeiras.jpg,2020-04-15 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @sportrecife",next-match/Vasco-Sport.jpg,2020-04-15 14:05:00,False
+sc,"Rodada 2 - Jogo 2
+
+@VascodaGama 0 - 2 @sportrecife",scores/Vasco-Sport.jpg,2020-04-15 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @FortalezaEC",next-match/São Paulo-Fortaleza.jpg,2020-04-15 15:05:00,False
+sc,"Rodada 2 - Jogo 3
+
+@SaoPauloFC 5 - 0 @FortalezaEC",scores/São Paulo-Fortaleza.jpg,2020-04-15 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @Botafogo",next-match/Red Bull Bragantino-Botafogo.jpg,2020-04-15 16:05:00,False
+sc,"Rodada 2 - Jogo 4
+
+@RedBullBraga 0 - 2 @Botafogo",scores/Red Bull Bragantino-Botafogo.jpg,2020-04-15 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @Corinthians",next-match/Atlético Mineiro-Corinthians.jpg,2020-04-15 17:05:00,False
+sc,"Rodada 2 - Jogo 5
+
+@Atletico 0 - 0 @Corinthians",scores/Atlético Mineiro-Corinthians.jpg,2020-04-15 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @SantosFC",next-match/Internacional-Santos.jpg,2020-04-15 18:05:00,False
+sc,"Rodada 2 - Jogo 6
+
+@SCInternacional 0 - 1 @SantosFC",scores/Internacional-Santos.jpg,2020-04-15 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @Coritiba",next-match/Bahia-Coritiba.jpg,2020-04-15 19:05:00,False
+sc,"Rodada 2 - Jogo 7
+
+@ECBahia 1 - 1 @Coritiba",scores/Bahia-Coritiba.jpg,2020-04-15 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @goiasoficial",next-match/Athletico Paranaense-Goiás.jpg,2020-04-15 20:05:00,False
+sc,"Rodada 2 - Jogo 8
+
+@AthleticoPR 1 - 0 @goiasoficial",scores/Athletico Paranaense-Goiás.jpg,2020-04-15 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @Gremio",next-match/Ceará-Grêmio.jpg,2020-04-15 21:05:00,False
+sc,"Rodada 2 - Jogo 9
+
+@CearaSC 4 - 1 @Gremio",scores/Ceará-Grêmio.jpg,2020-04-15 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @Flamengo",next-match/Atlético Goianiense-Flamengo.jpg,2020-04-15 22:05:00,False
+sc,"Rodada 2 - Jogo 10
+
+@ACGOficial 1 - 0 @Flamengo",scores/Atlético Goianiense-Flamengo.jpg,2020-04-15 23:00:00,False
+st,Classificação:,standings/2.jpg,2020-04-15 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/3.jpg,2020-04-15 23:10:00,False
+sc,"Rodada 3 - Jogo 1
+
+@FluminenseFC 1 - 1 @SCInternacional",scores/Fluminense-Internacional.jpg,2020-04-16 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @SaoPauloFC",next-match/Vasco-São Paulo.jpg,2020-04-16 14:05:00,False
+sc,"Rodada 3 - Jogo 2
+
+@VascodaGama 0 - 0 @SaoPauloFC",scores/Vasco-São Paulo.jpg,2020-04-16 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @goiasoficial",next-match/Palmeiras-Goiás.jpg,2020-04-16 15:05:00,False
+sc,"Rodada 3 - Jogo 3
+
+@Palmeiras 0 - 0 @goiasoficial",scores/Palmeiras-Goiás.jpg,2020-04-16 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @AthleticoPR",next-match/Santos-Athletico Paranaense.jpg,2020-04-16 16:05:00,False
+sc,"Rodada 3 - Jogo 4
+
+@SantosFC 0 - 0 @AthleticoPR",scores/Santos-Athletico Paranaense.jpg,2020-04-16 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @CearaSC",next-match/Atlético Mineiro-Ceará.jpg,2020-04-16 17:05:00,False
+sc,"Rodada 3 - Jogo 5
+
+@Atletico 2 - 0 @CearaSC",scores/Atlético Mineiro-Ceará.jpg,2020-04-16 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @Corinthians",next-match/Grêmio-Corinthians.jpg,2020-04-16 18:05:00,False
+sc,"Rodada 3 - Jogo 6
+
+@Gremio 0 - 0 @Corinthians",scores/Grêmio-Corinthians.jpg,2020-04-16 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @RedBullBraga",next-match/Bahia-Red Bull Bragantino.jpg,2020-04-16 19:05:00,False
+sc,"Rodada 3 - Jogo 7
+
+@ECBahia 0 - 2 @RedBullBraga",scores/Bahia-Red Bull Bragantino.jpg,2020-04-16 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @Flamengo",next-match/Coritiba-Flamengo.jpg,2020-04-16 20:05:00,False
+sc,"Rodada 3 - Jogo 8
+
+@Coritiba 1 - 1 @Flamengo",scores/Coritiba-Flamengo.jpg,2020-04-16 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @Botafogo",next-match/Fortaleza-Botafogo.jpg,2020-04-16 21:05:00,False
+sc,"Rodada 3 - Jogo 9
+
+@FortalezaEC 1 - 2 @Botafogo",scores/Fortaleza-Botafogo.jpg,2020-04-16 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @sportrecife",next-match/Atlético Goianiense-Sport.jpg,2020-04-16 22:05:00,False
+sc,"Rodada 3 - Jogo 10
+
+@ACGOficial 1 - 0 @sportrecife",scores/Atlético Goianiense-Sport.jpg,2020-04-16 23:00:00,False
+st,Classificação:,standings/3.jpg,2020-04-16 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/4.jpg,2020-04-16 23:10:00,False
+sc,"Rodada 4 - Jogo 1
+
+@Flamengo 2 - 0 @Gremio",scores/Flamengo-Grêmio.jpg,2020-04-17 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @Atletico",next-match/Botafogo-Atlético Mineiro.jpg,2020-04-17 14:05:00,False
+sc,"Rodada 4 - Jogo 2
+
+@Botafogo 0 - 0 @Atletico",scores/Botafogo-Atlético Mineiro.jpg,2020-04-17 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @ECBahia",next-match/São Paulo-Bahia.jpg,2020-04-17 15:05:00,False
+sc,"Rodada 4 - Jogo 3
+
+@SaoPauloFC 3 - 1 @ECBahia",scores/São Paulo-Bahia.jpg,2020-04-17 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @FluminenseFC",next-match/Red Bull Bragantino-Fluminense.jpg,2020-04-17 16:05:00,False
+sc,"Rodada 4 - Jogo 4
+
+@RedBullBraga 3 - 3 @FluminenseFC",scores/Red Bull Bragantino-Fluminense.jpg,2020-04-17 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @Coritiba",next-match/Corinthians-Coritiba.jpg,2020-04-17 17:05:00,False
+sc,"Rodada 4 - Jogo 5
+
+@Corinthians 3 - 1 @Coritiba",scores/Corinthians-Coritiba.jpg,2020-04-17 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @ACGOficial",next-match/Internacional-Atlético Goianiense.jpg,2020-04-17 18:05:00,False
+sc,"Rodada 4 - Jogo 6
+
+@SCInternacional 2 - 1 @ACGOficial",scores/Internacional-Atlético Goianiense.jpg,2020-04-17 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @SantosFC",next-match/Sport-Santos.jpg,2020-04-17 19:05:00,False
+sc,"Rodada 4 - Jogo 7
+
+@sportrecife 1 - 2 @SantosFC",scores/Sport-Santos.jpg,2020-04-17 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @Palmeiras",next-match/Athletico Paranaense-Palmeiras.jpg,2020-04-17 20:05:00,False
+sc,"Rodada 4 - Jogo 8
+
+@AthleticoPR 1 - 1 @Palmeiras",scores/Athletico Paranaense-Palmeiras.jpg,2020-04-17 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @VascodaGama",next-match/Ceará-Vasco.jpg,2020-04-17 21:05:00,False
+sc,"Rodada 4 - Jogo 9
+
+@CearaSC 2 - 0 @VascodaGama",scores/Ceará-Vasco.jpg,2020-04-17 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @FortalezaEC",next-match/Goiás-Fortaleza.jpg,2020-04-17 22:05:00,False
+sc,"Rodada 4 - Jogo 10
+
+@goiasoficial 0 - 0 @FortalezaEC",scores/Goiás-Fortaleza.jpg,2020-04-17 23:00:00,False
+st,Classificação:,standings/4.jpg,2020-04-17 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/5.jpg,2020-04-17 23:10:00,False
+sc,"Rodada 5 - Jogo 1
+
+@Flamengo 4 - 2 @Botafogo",scores/Flamengo-Botafogo.jpg,2020-04-18 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @Gremio",next-match/Vasco-Grêmio.jpg,2020-04-18 14:05:00,False
+sc,"Rodada 5 - Jogo 2
+
+@VascodaGama 0 - 1 @Gremio",scores/Vasco-Grêmio.jpg,2020-04-18 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @SantosFC",next-match/Palmeiras-Santos.jpg,2020-04-18 15:05:00,False
+sc,"Rodada 5 - Jogo 3
+
+@Palmeiras 0 - 2 @SantosFC",scores/Palmeiras-Santos.jpg,2020-04-18 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @Coritiba",next-match/Red Bull Bragantino-Coritiba.jpg,2020-04-18 16:05:00,False
+sc,"Rodada 5 - Jogo 4
+
+@RedBullBraga 2 - 1 @Coritiba",scores/Red Bull Bragantino-Coritiba.jpg,2020-04-18 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @FortalezaEC",next-match/Corinthians-Fortaleza.jpg,2020-04-18 17:05:00,False
+sc,"Rodada 5 - Jogo 5
+
+@Corinthians 0 - 2 @FortalezaEC",scores/Corinthians-Fortaleza.jpg,2020-04-18 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @Atletico",next-match/Internacional-Atlético Mineiro.jpg,2020-04-18 18:05:00,False
+sc,"Rodada 5 - Jogo 6
+
+@SCInternacional 1 - 3 @Atletico",scores/Internacional-Atlético Mineiro.jpg,2020-04-18 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @SaoPauloFC",next-match/Sport-São Paulo.jpg,2020-04-18 19:05:00,False
+sc,"Rodada 5 - Jogo 7
+
+@sportrecife 1 - 1 @SaoPauloFC",scores/Sport-São Paulo.jpg,2020-04-18 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @FluminenseFC",next-match/Athletico Paranaense-Fluminense.jpg,2020-04-18 20:05:00,False
+sc,"Rodada 5 - Jogo 8
+
+@AthleticoPR 3 - 1 @FluminenseFC",scores/Athletico Paranaense-Fluminense.jpg,2020-04-18 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @ECBahia",next-match/Ceará-Bahia.jpg,2020-04-18 21:05:00,False
+sc,"Rodada 5 - Jogo 9
+
+@CearaSC 2 - 1 @ECBahia",scores/Ceará-Bahia.jpg,2020-04-18 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @ACGOficial",next-match/Goiás-Atlético Goianiense.jpg,2020-04-18 22:05:00,False
+sc,"Rodada 5 - Jogo 10
+
+@goiasoficial 4 - 3 @ACGOficial",scores/Goiás-Atlético Goianiense.jpg,2020-04-18 23:00:00,False
+st,Classificação:,standings/5.jpg,2020-04-18 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/6.jpg,2020-04-18 23:10:00,False
+sc,"Rodada 6 - Jogo 1
+
+@FluminenseFC 2 - 2 @VascodaGama",scores/Fluminense-Vasco.jpg,2020-04-19 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @SCInternacional",next-match/Botafogo-Internacional.jpg,2020-04-19 14:05:00,False
+sc,"Rodada 6 - Jogo 2
+
+@Botafogo 1 - 1 @SCInternacional",scores/Botafogo-Internacional.jpg,2020-04-19 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @Corinthians",next-match/São Paulo-Corinthians.jpg,2020-04-19 15:05:00,False
+sc,"Rodada 6 - Jogo 3
+
+@SaoPauloFC 1 - 2 @Corinthians",scores/São Paulo-Corinthians.jpg,2020-04-19 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @Flamengo",next-match/Santos-Flamengo.jpg,2020-04-19 16:05:00,False
+sc,"Rodada 6 - Jogo 4
+
+@SantosFC 0 - 1 @Flamengo",scores/Santos-Flamengo.jpg,2020-04-19 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @AthleticoPR",next-match/Atlético Mineiro-Athletico Paranaense.jpg,2020-04-19 17:05:00,False
+sc,"Rodada 6 - Jogo 5
+
+@Atletico 2 - 0 @AthleticoPR",scores/Atlético Mineiro-Athletico Paranaense.jpg,2020-04-19 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @goiasoficial",next-match/Grêmio-Goiás.jpg,2020-04-19 18:05:00,False
+sc,"Rodada 6 - Jogo 6
+
+@Gremio 0 - 0 @goiasoficial",scores/Grêmio-Goiás.jpg,2020-04-19 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @Palmeiras",next-match/Bahia-Palmeiras.jpg,2020-04-19 19:05:00,False
+sc,"Rodada 6 - Jogo 7
+
+@ECBahia 1 - 1 @Palmeiras",scores/Bahia-Palmeiras.jpg,2020-04-19 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @sportrecife",next-match/Coritiba-Sport.jpg,2020-04-19 20:05:00,False
+sc,"Rodada 6 - Jogo 8
+
+@Coritiba 0 - 1 @sportrecife",scores/Coritiba-Sport.jpg,2020-04-19 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @RedBullBraga",next-match/Fortaleza-Red Bull Bragantino.jpg,2020-04-19 21:05:00,False
+sc,"Rodada 6 - Jogo 9
+
+@FortalezaEC 1 - 0 @RedBullBraga",scores/Fortaleza-Red Bull Bragantino.jpg,2020-04-19 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @CearaSC",next-match/Atlético Goianiense-Ceará.jpg,2020-04-19 22:05:00,False
+sc,"Rodada 6 - Jogo 10
+
+@ACGOficial 1 - 3 @CearaSC",scores/Atlético Goianiense-Ceará.jpg,2020-04-19 23:00:00,False
+st,Classificação:,standings/6.jpg,2020-04-19 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/7.jpg,2020-04-19 23:10:00,False
+sc,"Rodada 7 - Jogo 1
+
+@FluminenseFC 2 - 0 @ACGOficial",scores/Fluminense-Atlético Goianiense.jpg,2020-04-20 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @Coritiba",next-match/Botafogo-Coritiba.jpg,2020-04-20 14:05:00,False
+sc,"Rodada 7 - Jogo 2
+
+@Botafogo 0 - 0 @Coritiba",scores/Botafogo-Coritiba.jpg,2020-04-20 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @SCInternacional",next-match/Palmeiras-Internacional.jpg,2020-04-20 15:05:00,False
+sc,"Rodada 7 - Jogo 3
+
+@Palmeiras 0 - 0 @SCInternacional",scores/Palmeiras-Internacional.jpg,2020-04-20 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @VascodaGama",next-match/Santos-Vasco.jpg,2020-04-20 16:05:00,False
+sc,"Rodada 7 - Jogo 4
+
+@SantosFC 2 - 0 @VascodaGama",scores/Santos-Vasco.jpg,2020-04-20 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @SaoPauloFC",next-match/Atlético Mineiro-São Paulo.jpg,2020-04-20 17:05:00,False
+sc,"Rodada 7 - Jogo 5
+
+@Atletico 1 - 2 @SaoPauloFC",scores/Atlético Mineiro-São Paulo.jpg,2020-04-20 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @sportrecife",next-match/Grêmio-Sport.jpg,2020-04-20 18:05:00,False
+sc,"Rodada 7 - Jogo 6
+
+@Gremio 0 - 0 @sportrecife",scores/Grêmio-Sport.jpg,2020-04-20 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @Flamengo",next-match/Bahia-Flamengo.jpg,2020-04-20 19:05:00,False
+sc,"Rodada 7 - Jogo 7
+
+@ECBahia 1 - 0 @Flamengo",scores/Bahia-Flamengo.jpg,2020-04-20 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @RedBullBraga",next-match/Athletico Paranaense-Red Bull Bragantino.jpg,2020-04-20 20:05:00,False
+sc,"Rodada 7 - Jogo 8
+
+@AthleticoPR 1 - 2 @RedBullBraga",scores/Athletico Paranaense-Red Bull Bragantino.jpg,2020-04-20 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @FortalezaEC",next-match/Ceará-Fortaleza.jpg,2020-04-20 21:05:00,False
+sc,"Rodada 7 - Jogo 9
+
+@CearaSC 1 - 0 @FortalezaEC",scores/Ceará-Fortaleza.jpg,2020-04-20 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @Corinthians",next-match/Goiás-Corinthians.jpg,2020-04-20 22:05:00,False
+sc,"Rodada 7 - Jogo 10
+
+@goiasoficial 0 - 1 @Corinthians",scores/Goiás-Corinthians.jpg,2020-04-20 23:00:00,False
+st,Classificação:,standings/7.jpg,2020-04-20 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/8.jpg,2020-04-20 23:10:00,False
+sc,"Rodada 8 - Jogo 1
+
+@Flamengo 5 - 1 @FortalezaEC",scores/Flamengo-Fortaleza.jpg,2020-04-21 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @AthleticoPR",next-match/Vasco-Athletico Paranaense.jpg,2020-04-21 14:05:00,False
+sc,"Rodada 8 - Jogo 2
+
+@VascodaGama 0 - 2 @AthleticoPR",scores/Vasco-Athletico Paranaense.jpg,2020-04-21 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @FluminenseFC",next-match/São Paulo-Fluminense.jpg,2020-04-21 15:05:00,False
+sc,"Rodada 8 - Jogo 3
+
+@SaoPauloFC 0 - 1 @FluminenseFC",scores/São Paulo-Fluminense.jpg,2020-04-21 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @Palmeiras",next-match/Red Bull Bragantino-Palmeiras.jpg,2020-04-21 16:05:00,False
+sc,"Rodada 8 - Jogo 4
+
+@RedBullBraga 1 - 2 @Palmeiras",scores/Red Bull Bragantino-Palmeiras.jpg,2020-04-21 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @Botafogo",next-match/Corinthians-Botafogo.jpg,2020-04-21 17:05:00,False
+sc,"Rodada 8 - Jogo 5
+
+@Corinthians 4 - 0 @Botafogo",scores/Corinthians-Botafogo.jpg,2020-04-21 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @ECBahia",next-match/Internacional-Bahia.jpg,2020-04-21 18:05:00,False
+sc,"Rodada 8 - Jogo 6
+
+@SCInternacional 0 - 2 @ECBahia",scores/Internacional-Bahia.jpg,2020-04-21 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @goiasoficial",next-match/Sport-Goiás.jpg,2020-04-21 19:05:00,False
+sc,"Rodada 8 - Jogo 7
+
+@sportrecife 1 - 0 @goiasoficial",scores/Sport-Goiás.jpg,2020-04-21 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @Atletico",next-match/Coritiba-Atlético Mineiro.jpg,2020-04-21 20:05:00,False
+sc,"Rodada 8 - Jogo 8
+
+@Coritiba 1 - 1 @Atletico",scores/Coritiba-Atlético Mineiro.jpg,2020-04-21 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @SantosFC",next-match/Ceará-Santos.jpg,2020-04-21 21:05:00,False
+sc,"Rodada 8 - Jogo 9
+
+@CearaSC 0 - 1 @SantosFC",scores/Ceará-Santos.jpg,2020-04-21 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @Gremio",next-match/Atlético Goianiense-Grêmio.jpg,2020-04-21 22:05:00,False
+sc,"Rodada 8 - Jogo 10
+
+@ACGOficial 2 - 1 @Gremio",scores/Atlético Goianiense-Grêmio.jpg,2020-04-21 23:00:00,False
+st,Classificação:,standings/8.jpg,2020-04-21 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/9.jpg,2020-04-21 23:10:00,False
+sc,"Rodada 9 - Jogo 1
+
+@FluminenseFC 2 - 1 @Flamengo",scores/Fluminense-Flamengo.jpg,2020-04-22 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @ACGOficial",next-match/Vasco-Atlético Goianiense.jpg,2020-04-22 14:05:00,False
+sc,"Rodada 9 - Jogo 2
+
+@VascodaGama 0 - 0 @ACGOficial",scores/Vasco-Atlético Goianiense.jpg,2020-04-22 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @RedBullBraga",next-match/São Paulo-Red Bull Bragantino.jpg,2020-04-22 15:05:00,False
+sc,"Rodada 9 - Jogo 3
+
+@SaoPauloFC 1 - 0 @RedBullBraga",scores/São Paulo-Red Bull Bragantino.jpg,2020-04-22 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @Atletico",next-match/Santos-Atlético Mineiro.jpg,2020-04-22 16:05:00,False
+sc,"Rodada 9 - Jogo 4
+
+@SantosFC 1 - 1 @Atletico",scores/Santos-Atlético Mineiro.jpg,2020-04-22 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @Palmeiras",next-match/Corinthians-Palmeiras.jpg,2020-04-22 17:05:00,False
+sc,"Rodada 9 - Jogo 5
+
+@Corinthians 3 - 1 @Palmeiras",scores/Corinthians-Palmeiras.jpg,2020-04-22 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @CearaSC",next-match/Internacional-Ceará.jpg,2020-04-22 18:05:00,False
+sc,"Rodada 9 - Jogo 6
+
+@SCInternacional 1 - 2 @CearaSC",scores/Internacional-Ceará.jpg,2020-04-22 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @Gremio",next-match/Bahia-Grêmio.jpg,2020-04-22 19:05:00,False
+sc,"Rodada 9 - Jogo 7
+
+@ECBahia 1 - 1 @Gremio",scores/Bahia-Grêmio.jpg,2020-04-22 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @Botafogo",next-match/Athletico Paranaense-Botafogo.jpg,2020-04-22 20:05:00,False
+sc,"Rodada 9 - Jogo 8
+
+@AthleticoPR 3 - 0 @Botafogo",scores/Athletico Paranaense-Botafogo.jpg,2020-04-22 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @sportrecife",next-match/Fortaleza-Sport.jpg,2020-04-22 21:05:00,False
+sc,"Rodada 9 - Jogo 9
+
+@FortalezaEC 1 - 0 @sportrecife",scores/Fortaleza-Sport.jpg,2020-04-22 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @Coritiba",next-match/Goiás-Coritiba.jpg,2020-04-22 22:05:00,False
+sc,"Rodada 9 - Jogo 10
+
+@goiasoficial 2 - 1 @Coritiba",scores/Goiás-Coritiba.jpg,2020-04-22 23:00:00,False
+st,Classificação:,standings/9.jpg,2020-04-22 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/10.jpg,2020-04-22 23:10:00,False
+sc,"Rodada 10 - Jogo 1
+
+@FluminenseFC 4 - 1 @Corinthians",scores/Fluminense-Corinthians.jpg,2020-04-23 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @VascodaGama",next-match/Botafogo-Vasco.jpg,2020-04-23 14:05:00,False
+sc,"Rodada 10 - Jogo 2
+
+@Botafogo 1 - 1 @VascodaGama",scores/Botafogo-Vasco.jpg,2020-04-23 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @sportrecife",next-match/Palmeiras-Sport.jpg,2020-04-23 15:05:00,False
+sc,"Rodada 10 - Jogo 3
+
+@Palmeiras 2 - 3 @sportrecife",scores/Palmeiras-Sport.jpg,2020-04-23 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @SaoPauloFC",next-match/Santos-São Paulo.jpg,2020-04-23 16:05:00,False
+sc,"Rodada 10 - Jogo 4
+
+@SantosFC 1 - 2 @SaoPauloFC",scores/Santos-São Paulo.jpg,2020-04-23 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @RedBullBraga",next-match/Atlético Mineiro-Red Bull Bragantino.jpg,2020-04-23 17:05:00,False
+sc,"Rodada 10 - Jogo 5
+
+@Atletico 2 - 2 @RedBullBraga",scores/Atlético Mineiro-Red Bull Bragantino.jpg,2020-04-23 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @FortalezaEC",next-match/Grêmio-Fortaleza.jpg,2020-04-23 18:05:00,False
+sc,"Rodada 10 - Jogo 6
+
+@Gremio 1 - 1 @FortalezaEC",scores/Grêmio-Fortaleza.jpg,2020-04-23 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @ACGOficial",next-match/Bahia-Atlético Goianiense.jpg,2020-04-23 19:05:00,False
+sc,"Rodada 10 - Jogo 7
+
+@ECBahia 0 - 0 @ACGOficial",scores/Bahia-Atlético Goianiense.jpg,2020-04-23 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @Coritiba",next-match/Athletico Paranaense-Coritiba.jpg,2020-04-23 20:05:00,False
+sc,"Rodada 10 - Jogo 8
+
+@AthleticoPR 0 - 3 @Coritiba",scores/Athletico Paranaense-Coritiba.jpg,2020-04-23 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @Flamengo",next-match/Ceará-Flamengo.jpg,2020-04-23 21:05:00,False
+sc,"Rodada 10 - Jogo 9
+
+@CearaSC 1 - 1 @Flamengo",scores/Ceará-Flamengo.jpg,2020-04-23 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @SCInternacional",next-match/Goiás-Internacional.jpg,2020-04-23 22:05:00,False
+sc,"Rodada 10 - Jogo 10
+
+@goiasoficial 0 - 0 @SCInternacional",scores/Goiás-Internacional.jpg,2020-04-23 23:00:00,False
+st,Classificação:,standings/10.jpg,2020-04-23 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/11.jpg,2020-04-23 23:10:00,False
+sc,"Rodada 11 - Jogo 1
+
+@Flamengo 1 - 2 @goiasoficial",scores/Flamengo-Goiás.jpg,2020-04-24 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @SantosFC",next-match/Botafogo-Santos.jpg,2020-04-24 14:05:00,False
+sc,"Rodada 11 - Jogo 2
+
+@Botafogo 1 - 0 @SantosFC",scores/Botafogo-Santos.jpg,2020-04-24 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @AthleticoPR",next-match/São Paulo-Athletico Paranaense.jpg,2020-04-24 15:05:00,False
+sc,"Rodada 11 - Jogo 3
+
+@SaoPauloFC 2 - 0 @AthleticoPR",scores/São Paulo-Athletico Paranaense.jpg,2020-04-24 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @CearaSC",next-match/Red Bull Bragantino-Ceará.jpg,2020-04-24 16:05:00,False
+sc,"Rodada 11 - Jogo 4
+
+@RedBullBraga 4 - 3 @CearaSC",scores/Red Bull Bragantino-Ceará.jpg,2020-04-24 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @ECBahia",next-match/Corinthians-Bahia.jpg,2020-04-24 17:05:00,False
+sc,"Rodada 11 - Jogo 5
+
+@Corinthians 0 - 1 @ECBahia",scores/Corinthians-Bahia.jpg,2020-04-24 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @Palmeiras",next-match/Grêmio-Palmeiras.jpg,2020-04-24 18:05:00,False
+sc,"Rodada 11 - Jogo 6
+
+@Gremio 1 - 0 @Palmeiras",scores/Grêmio-Palmeiras.jpg,2020-04-24 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @FluminenseFC",next-match/Sport-Fluminense.jpg,2020-04-24 19:05:00,False
+sc,"Rodada 11 - Jogo 7
+
+@sportrecife 3 - 2 @FluminenseFC",scores/Sport-Fluminense.jpg,2020-04-24 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @VascodaGama",next-match/Coritiba-Vasco.jpg,2020-04-24 20:05:00,False
+sc,"Rodada 11 - Jogo 8
+
+@Coritiba 0 - 1 @VascodaGama",scores/Coritiba-Vasco.jpg,2020-04-24 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @SCInternacional",next-match/Fortaleza-Internacional.jpg,2020-04-24 21:05:00,False
+sc,"Rodada 11 - Jogo 9
+
+@FortalezaEC 2 - 1 @SCInternacional",scores/Fortaleza-Internacional.jpg,2020-04-24 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @Atletico",next-match/Atlético Goianiense-Atlético Mineiro.jpg,2020-04-24 22:05:00,False
+sc,"Rodada 11 - Jogo 10
+
+@ACGOficial 1 - 2 @Atletico",scores/Atlético Goianiense-Atlético Mineiro.jpg,2020-04-24 23:00:00,False
+st,Classificação:,standings/11.jpg,2020-04-24 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/12.jpg,2020-04-24 23:10:00,False
+sc,"Rodada 12 - Jogo 1
+
+@FluminenseFC 0 - 2 @Coritiba",scores/Fluminense-Coritiba.jpg,2020-04-25 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @RedBullBraga",next-match/Vasco-Red Bull Bragantino.jpg,2020-04-25 14:05:00,False
+sc,"Rodada 12 - Jogo 2
+
+@VascodaGama 1 - 0 @RedBullBraga",scores/Vasco-Red Bull Bragantino.jpg,2020-04-25 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @Flamengo",next-match/Palmeiras-Flamengo.jpg,2020-04-25 15:05:00,False
+sc,"Rodada 12 - Jogo 3
+
+@Palmeiras 0 - 1 @Flamengo",scores/Palmeiras-Flamengo.jpg,2020-04-25 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @FortalezaEC",next-match/Santos-Fortaleza.jpg,2020-04-25 16:05:00,False
+sc,"Rodada 12 - Jogo 4
+
+@SantosFC 0 - 1 @FortalezaEC",scores/Santos-Fortaleza.jpg,2020-04-25 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @Gremio",next-match/Atlético Mineiro-Grêmio.jpg,2020-04-25 17:05:00,False
+sc,"Rodada 12 - Jogo 5
+
+@Atletico 0 - 1 @Gremio",scores/Atlético Mineiro-Grêmio.jpg,2020-04-25 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @SaoPauloFC",next-match/Internacional-São Paulo.jpg,2020-04-25 18:05:00,False
+sc,"Rodada 12 - Jogo 6
+
+@SCInternacional 0 - 1 @SaoPauloFC",scores/Internacional-São Paulo.jpg,2020-04-25 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @Corinthians",next-match/Sport-Corinthians.jpg,2020-04-25 19:05:00,False
+sc,"Rodada 12 - Jogo 7
+
+@sportrecife 0 - 0 @Corinthians",scores/Sport-Corinthians.jpg,2020-04-25 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @ECBahia",next-match/Athletico Paranaense-Bahia.jpg,2020-04-25 20:05:00,False
+sc,"Rodada 12 - Jogo 8
+
+@AthleticoPR 1 - 0 @ECBahia",scores/Athletico Paranaense-Bahia.jpg,2020-04-25 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @goiasoficial",next-match/Ceará-Goiás.jpg,2020-04-25 21:05:00,False
+sc,"Rodada 12 - Jogo 9
+
+@CearaSC 2 - 1 @goiasoficial",scores/Ceará-Goiás.jpg,2020-04-25 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @Botafogo",next-match/Atlético Goianiense-Botafogo.jpg,2020-04-25 22:05:00,False
+sc,"Rodada 12 - Jogo 10
+
+@ACGOficial 0 - 1 @Botafogo",scores/Atlético Goianiense-Botafogo.jpg,2020-04-25 23:00:00,False
+st,Classificação:,standings/12.jpg,2020-04-25 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/13.jpg,2020-04-25 23:10:00,False
+sc,"Rodada 13 - Jogo 1
+
+@Flamengo 2 - 0 @AthleticoPR",scores/Flamengo-Athletico Paranaense.jpg,2020-04-26 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @FluminenseFC",next-match/Botafogo-Fluminense.jpg,2020-04-26 14:05:00,False
+sc,"Rodada 13 - Jogo 2
+
+@Botafogo 1 - 0 @FluminenseFC",scores/Botafogo-Fluminense.jpg,2020-04-26 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @CearaSC",next-match/Palmeiras-Ceará.jpg,2020-04-26 15:05:00,False
+sc,"Rodada 13 - Jogo 3
+
+@Palmeiras 2 - 1 @CearaSC",scores/Palmeiras-Ceará.jpg,2020-04-26 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @Corinthians",next-match/Red Bull Bragantino-Corinthians.jpg,2020-04-26 16:05:00,False
+sc,"Rodada 13 - Jogo 4
+
+@RedBullBraga 2 - 2 @Corinthians",scores/Red Bull Bragantino-Corinthians.jpg,2020-04-26 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @VascodaGama",next-match/Atlético Mineiro-Vasco.jpg,2020-04-26 17:05:00,False
+sc,"Rodada 13 - Jogo 5
+
+@Atletico 2 - 0 @VascodaGama",scores/Atlético Mineiro-Vasco.jpg,2020-04-26 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @SCInternacional",next-match/Grêmio-Internacional.jpg,2020-04-26 18:05:00,False
+sc,"Rodada 13 - Jogo 6
+
+@Gremio 0 - 1 @SCInternacional",scores/Grêmio-Internacional.jpg,2020-04-26 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @sportrecife",next-match/Bahia-Sport.jpg,2020-04-26 19:05:00,False
+sc,"Rodada 13 - Jogo 7
+
+@ECBahia 0 - 0 @sportrecife",scores/Bahia-Sport.jpg,2020-04-26 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @SaoPauloFC",next-match/Coritiba-São Paulo.jpg,2020-04-26 20:05:00,False
+sc,"Rodada 13 - Jogo 8
+
+@Coritiba 2 - 0 @SaoPauloFC",scores/Coritiba-São Paulo.jpg,2020-04-26 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @ACGOficial",next-match/Fortaleza-Atlético Goianiense.jpg,2020-04-26 21:05:00,False
+sc,"Rodada 13 - Jogo 9
+
+@FortalezaEC 3 - 2 @ACGOficial",scores/Fortaleza-Atlético Goianiense.jpg,2020-04-26 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @SantosFC",next-match/Goiás-Santos.jpg,2020-04-26 22:05:00,False
+sc,"Rodada 13 - Jogo 10
+
+@goiasoficial 2 - 3 @SantosFC",scores/Goiás-Santos.jpg,2020-04-26 23:00:00,False
+st,Classificação:,standings/13.jpg,2020-04-26 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/14.jpg,2020-04-26 23:10:00,False
+sc,"Rodada 14 - Jogo 1
+
+@Flamengo 3 - 0 @sportrecife",scores/Flamengo-Sport.jpg,2020-04-27 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @Palmeiras",next-match/Botafogo-Palmeiras.jpg,2020-04-27 14:05:00,False
+sc,"Rodada 14 - Jogo 2
+
+@Botafogo 0 - 0 @Palmeiras",scores/Botafogo-Palmeiras.jpg,2020-04-27 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @ACGOficial",next-match/São Paulo-Atlético Goianiense.jpg,2020-04-27 15:05:00,False
+sc,"Rodada 14 - Jogo 3
+
+@SaoPauloFC 4 - 2 @ACGOficial",scores/São Paulo-Atlético Goianiense.jpg,2020-04-27 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @SCInternacional",next-match/Red Bull Bragantino-Internacional.jpg,2020-04-27 16:05:00,False
+sc,"Rodada 14 - Jogo 4
+
+@RedBullBraga 0 - 3 @SCInternacional",scores/Red Bull Bragantino-Internacional.jpg,2020-04-27 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @SantosFC",next-match/Corinthians-Santos.jpg,2020-04-27 17:05:00,False
+sc,"Rodada 14 - Jogo 5
+
+@Corinthians 0 - 0 @SantosFC",scores/Corinthians-Santos.jpg,2020-04-27 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @Coritiba",next-match/Grêmio-Coritiba.jpg,2020-04-27 18:05:00,False
+sc,"Rodada 14 - Jogo 6
+
+@Gremio 4 - 1 @Coritiba",scores/Grêmio-Coritiba.jpg,2020-04-27 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @VascodaGama",next-match/Bahia-Vasco.jpg,2020-04-27 19:05:00,False
+sc,"Rodada 14 - Jogo 7
+
+@ECBahia 4 - 1 @VascodaGama",scores/Bahia-Vasco.jpg,2020-04-27 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @CearaSC",next-match/Athletico Paranaense-Ceará.jpg,2020-04-27 20:05:00,False
+sc,"Rodada 14 - Jogo 8
+
+@AthleticoPR 4 - 3 @CearaSC",scores/Athletico Paranaense-Ceará.jpg,2020-04-27 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @Atletico",next-match/Fortaleza-Atlético Mineiro.jpg,2020-04-27 21:05:00,False
+sc,"Rodada 14 - Jogo 9
+
+@FortalezaEC 2 - 2 @Atletico",scores/Fortaleza-Atlético Mineiro.jpg,2020-04-27 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @FluminenseFC",next-match/Goiás-Fluminense.jpg,2020-04-27 22:05:00,False
+sc,"Rodada 14 - Jogo 10
+
+@goiasoficial 0 - 0 @FluminenseFC",scores/Goiás-Fluminense.jpg,2020-04-27 23:00:00,False
+st,Classificação:,standings/14.jpg,2020-04-27 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/15.jpg,2020-04-27 23:10:00,False
+sc,"Rodada 15 - Jogo 1
+
+@FluminenseFC 2 - 4 @ECBahia",scores/Fluminense-Bahia.jpg,2020-04-28 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @Flamengo",next-match/Vasco-Flamengo.jpg,2020-04-28 14:05:00,False
+sc,"Rodada 15 - Jogo 2
+
+@VascodaGama 0 - 0 @Flamengo",scores/Vasco-Flamengo.jpg,2020-04-28 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @SaoPauloFC",next-match/Palmeiras-São Paulo.jpg,2020-04-28 15:05:00,False
+sc,"Rodada 15 - Jogo 3
+
+@Palmeiras 3 - 3 @SaoPauloFC",scores/Palmeiras-São Paulo.jpg,2020-04-28 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @Gremio",next-match/Santos-Grêmio.jpg,2020-04-28 16:05:00,False
+sc,"Rodada 15 - Jogo 4
+
+@SantosFC 1 - 0 @Gremio",scores/Santos-Grêmio.jpg,2020-04-28 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @goiasoficial",next-match/Atlético Mineiro-Goiás.jpg,2020-04-28 17:05:00,False
+sc,"Rodada 15 - Jogo 5
+
+@Atletico 1 - 0 @goiasoficial",scores/Atlético Mineiro-Goiás.jpg,2020-04-28 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @AthleticoPR",next-match/Internacional-Athletico Paranaense.jpg,2020-04-28 18:05:00,False
+sc,"Rodada 15 - Jogo 6
+
+@SCInternacional 0 - 0 @AthleticoPR",scores/Internacional-Athletico Paranaense.jpg,2020-04-28 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @Botafogo",next-match/Sport-Botafogo.jpg,2020-04-28 19:05:00,False
+sc,"Rodada 15 - Jogo 7
+
+@sportrecife 2 - 1 @Botafogo",scores/Sport-Botafogo.jpg,2020-04-28 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @FortalezaEC",next-match/Coritiba-Fortaleza.jpg,2020-04-28 20:05:00,False
+sc,"Rodada 15 - Jogo 8
+
+@Coritiba 1 - 0 @FortalezaEC",scores/Coritiba-Fortaleza.jpg,2020-04-28 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @Corinthians",next-match/Ceará-Corinthians.jpg,2020-04-28 21:05:00,False
+sc,"Rodada 15 - Jogo 9
+
+@CearaSC 1 - 1 @Corinthians",scores/Ceará-Corinthians.jpg,2020-04-28 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @RedBullBraga",next-match/Atlético Goianiense-Red Bull Bragantino.jpg,2020-04-28 22:05:00,False
+sc,"Rodada 15 - Jogo 10
+
+@ACGOficial 1 - 1 @RedBullBraga",scores/Atlético Goianiense-Red Bull Bragantino.jpg,2020-04-28 23:00:00,False
+st,Classificação:,standings/15.jpg,2020-04-28 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/16.jpg,2020-04-28 23:10:00,False
+sc,"Rodada 16 - Jogo 1
+
+@Flamengo 1 - 2 @RedBullBraga",scores/Flamengo-Red Bull Bragantino.jpg,2020-04-29 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @FortalezaEC",next-match/Vasco-Fortaleza.jpg,2020-04-29 14:05:00,False
+sc,"Rodada 16 - Jogo 2
+
+@VascodaGama 0 - 1 @FortalezaEC",scores/Vasco-Fortaleza.jpg,2020-04-29 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @Coritiba",next-match/Palmeiras-Coritiba.jpg,2020-04-29 15:05:00,False
+sc,"Rodada 16 - Jogo 3
+
+@Palmeiras 0 - 0 @Coritiba",scores/Palmeiras-Coritiba.jpg,2020-04-29 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @ACGOficial",next-match/Santos-Atlético Goianiense.jpg,2020-04-29 16:05:00,False
+sc,"Rodada 16 - Jogo 4
+
+@SantosFC 0 - 0 @ACGOficial",scores/Santos-Atlético Goianiense.jpg,2020-04-29 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @FluminenseFC",next-match/Atlético Mineiro-Fluminense.jpg,2020-04-29 17:05:00,False
+sc,"Rodada 16 - Jogo 5
+
+@Atletico 1 - 0 @FluminenseFC",scores/Atlético Mineiro-Fluminense.jpg,2020-04-29 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @Botafogo",next-match/Grêmio-Botafogo.jpg,2020-04-29 18:05:00,False
+sc,"Rodada 16 - Jogo 6
+
+@Gremio 4 - 1 @Botafogo",scores/Grêmio-Botafogo.jpg,2020-04-29 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @SCInternacional",next-match/Sport-Internacional.jpg,2020-04-29 19:05:00,False
+sc,"Rodada 16 - Jogo 7
+
+@sportrecife 0 - 1 @SCInternacional",scores/Sport-Internacional.jpg,2020-04-29 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @Corinthians",next-match/Athletico Paranaense-Corinthians.jpg,2020-04-29 20:05:00,False
+sc,"Rodada 16 - Jogo 8
+
+@AthleticoPR 0 - 1 @Corinthians",scores/Athletico Paranaense-Corinthians.jpg,2020-04-29 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @SaoPauloFC",next-match/Ceará-São Paulo.jpg,2020-04-29 21:05:00,False
+sc,"Rodada 16 - Jogo 9
+
+@CearaSC 2 - 1 @SaoPauloFC",scores/Ceará-São Paulo.jpg,2020-04-29 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @ECBahia",next-match/Goiás-Bahia.jpg,2020-04-29 22:05:00,False
+sc,"Rodada 16 - Jogo 10
+
+@goiasoficial 4 - 3 @ECBahia",scores/Goiás-Bahia.jpg,2020-04-29 23:00:00,False
+st,Classificação:,standings/16.jpg,2020-04-29 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/17.jpg,2020-04-29 23:10:00,False
+sc,"Rodada 17 - Jogo 1
+
+@FluminenseFC 1 - 1 @CearaSC",scores/Fluminense-Ceará.jpg,2020-04-30 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @goiasoficial",next-match/Botafogo-Goiás.jpg,2020-04-30 14:05:00,False
+sc,"Rodada 17 - Jogo 2
+
+@Botafogo 4 - 0 @goiasoficial",scores/Botafogo-Goiás.jpg,2020-04-30 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @Gremio",next-match/São Paulo-Grêmio.jpg,2020-04-30 15:05:00,False
+sc,"Rodada 17 - Jogo 3
+
+@SaoPauloFC 0 - 1 @Gremio",scores/São Paulo-Grêmio.jpg,2020-04-30 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @sportrecife",next-match/Red Bull Bragantino-Sport.jpg,2020-04-30 16:05:00,False
+sc,"Rodada 17 - Jogo 4
+
+@RedBullBraga 3 - 0 @sportrecife",scores/Red Bull Bragantino-Sport.jpg,2020-04-30 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @Flamengo",next-match/Corinthians-Flamengo.jpg,2020-04-30 17:05:00,False
+sc,"Rodada 17 - Jogo 5
+
+@Corinthians 3 - 0 @Flamengo",scores/Corinthians-Flamengo.jpg,2020-04-30 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @VascodaGama",next-match/Internacional-Vasco.jpg,2020-04-30 18:05:00,False
+sc,"Rodada 17 - Jogo 6
+
+@SCInternacional 2 - 0 @VascodaGama",scores/Internacional-Vasco.jpg,2020-04-30 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @Atletico",next-match/Bahia-Atlético Mineiro.jpg,2020-04-30 19:05:00,False
+sc,"Rodada 17 - Jogo 7
+
+@ECBahia 0 - 4 @Atletico",scores/Bahia-Atlético Mineiro.jpg,2020-04-30 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @SantosFC",next-match/Coritiba-Santos.jpg,2020-04-30 20:05:00,False
+sc,"Rodada 17 - Jogo 8
+
+@Coritiba 1 - 1 @SantosFC",scores/Coritiba-Santos.jpg,2020-04-30 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @Palmeiras",next-match/Fortaleza-Palmeiras.jpg,2020-04-30 21:05:00,False
+sc,"Rodada 17 - Jogo 9
+
+@FortalezaEC 5 - 0 @Palmeiras",scores/Fortaleza-Palmeiras.jpg,2020-04-30 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @AthleticoPR",next-match/Atlético Goianiense-Athletico Paranaense.jpg,2020-04-30 22:05:00,False
+sc,"Rodada 17 - Jogo 10
+
+@ACGOficial 1 - 2 @AthleticoPR",scores/Atlético Goianiense-Athletico Paranaense.jpg,2020-04-30 23:00:00,False
+st,Classificação:,standings/17.jpg,2020-04-30 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/18.jpg,2020-04-30 23:10:00,False
+sc,"Rodada 18 - Jogo 1
+
+@FluminenseFC 2 - 0 @SantosFC",scores/Fluminense-Santos.jpg,2020-05-01 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @Corinthians",next-match/Vasco-Corinthians.jpg,2020-05-01 14:05:00,False
+sc,"Rodada 18 - Jogo 2
+
+@VascodaGama 4 - 1 @Corinthians",scores/Vasco-Corinthians.jpg,2020-05-01 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @Botafogo",next-match/São Paulo-Botafogo.jpg,2020-05-01 15:05:00,False
+sc,"Rodada 18 - Jogo 3
+
+@SaoPauloFC 1 - 1 @Botafogo",scores/São Paulo-Botafogo.jpg,2020-05-01 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @goiasoficial",next-match/Red Bull Bragantino-Goiás.jpg,2020-05-01 16:05:00,False
+sc,"Rodada 18 - Jogo 4
+
+@RedBullBraga 1 - 3 @goiasoficial",scores/Red Bull Bragantino-Goiás.jpg,2020-05-01 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @sportrecife",next-match/Atlético Mineiro-Sport.jpg,2020-05-01 17:05:00,False
+sc,"Rodada 18 - Jogo 5
+
+@Atletico 4 - 1 @sportrecife",scores/Atlético Mineiro-Sport.jpg,2020-05-01 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @Flamengo",next-match/Internacional-Flamengo.jpg,2020-05-01 18:05:00,False
+sc,"Rodada 18 - Jogo 6
+
+@SCInternacional 1 - 1 @Flamengo",scores/Internacional-Flamengo.jpg,2020-05-01 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @FortalezaEC",next-match/Bahia-Fortaleza.jpg,2020-05-01 19:05:00,False
+sc,"Rodada 18 - Jogo 7
+
+@ECBahia 1 - 1 @FortalezaEC",scores/Bahia-Fortaleza.jpg,2020-05-01 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @Gremio",next-match/Athletico Paranaense-Grêmio.jpg,2020-05-01 20:05:00,False
+sc,"Rodada 18 - Jogo 8
+
+@AthleticoPR 1 - 1 @Gremio",scores/Athletico Paranaense-Grêmio.jpg,2020-05-01 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @Coritiba",next-match/Ceará-Coritiba.jpg,2020-05-01 21:05:00,False
+sc,"Rodada 18 - Jogo 9
+
+@CearaSC 1 - 3 @Coritiba",scores/Ceará-Coritiba.jpg,2020-05-01 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @Palmeiras",next-match/Atlético Goianiense-Palmeiras.jpg,2020-05-01 22:05:00,False
+sc,"Rodada 18 - Jogo 10
+
+@ACGOficial 1 - 0 @Palmeiras",scores/Atlético Goianiense-Palmeiras.jpg,2020-05-01 23:00:00,False
+st,Classificação:,standings/18.jpg,2020-05-01 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/19.jpg,2020-05-01 23:10:00,False
+sc,"Rodada 19 - Jogo 1
+
+@Flamengo 0 - 0 @SaoPauloFC",scores/Flamengo-São Paulo.jpg,2020-05-02 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @CearaSC",next-match/Botafogo-Ceará.jpg,2020-05-02 14:05:00,False
+sc,"Rodada 19 - Jogo 2
+
+@Botafogo 1 - 2 @CearaSC",scores/Botafogo-Ceará.jpg,2020-05-02 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @Atletico",next-match/Palmeiras-Atlético Mineiro.jpg,2020-05-02 15:05:00,False
+sc,"Rodada 19 - Jogo 3
+
+@Palmeiras 0 - 0 @Atletico",scores/Palmeiras-Atlético Mineiro.jpg,2020-05-02 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @ECBahia",next-match/Santos-Bahia.jpg,2020-05-02 16:05:00,False
+sc,"Rodada 19 - Jogo 4
+
+@SantosFC 1 - 0 @ECBahia",scores/Santos-Bahia.jpg,2020-05-02 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @SCInternacional",next-match/Corinthians-Internacional.jpg,2020-05-02 17:05:00,False
+sc,"Rodada 19 - Jogo 5
+
+@Corinthians 1 - 2 @SCInternacional",scores/Corinthians-Internacional.jpg,2020-05-02 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @RedBullBraga",next-match/Grêmio-Red Bull Bragantino.jpg,2020-05-02 18:05:00,False
+sc,"Rodada 19 - Jogo 6
+
+@Gremio 4 - 3 @RedBullBraga",scores/Grêmio-Red Bull Bragantino.jpg,2020-05-02 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @AthleticoPR",next-match/Sport-Athletico Paranaense.jpg,2020-05-02 19:05:00,False
+sc,"Rodada 19 - Jogo 7
+
+@sportrecife 0 - 0 @AthleticoPR",scores/Sport-Athletico Paranaense.jpg,2020-05-02 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @ACGOficial",next-match/Coritiba-Atlético Goianiense.jpg,2020-05-02 20:05:00,False
+sc,"Rodada 19 - Jogo 8
+
+@Coritiba 2 - 3 @ACGOficial",scores/Coritiba-Atlético Goianiense.jpg,2020-05-02 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @FluminenseFC",next-match/Fortaleza-Fluminense.jpg,2020-05-02 21:05:00,False
+sc,"Rodada 19 - Jogo 9
+
+@FortalezaEC 1 - 0 @FluminenseFC",scores/Fortaleza-Fluminense.jpg,2020-05-02 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @VascodaGama",next-match/Goiás-Vasco.jpg,2020-05-02 22:05:00,False
+sc,"Rodada 19 - Jogo 10
+
+@goiasoficial 1 - 1 @VascodaGama",scores/Goiás-Vasco.jpg,2020-05-02 23:00:00,False
+st,Classificação:,standings/19.jpg,2020-05-02 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/20.jpg,2020-05-02 23:10:00,False
+sc,"Rodada 20 - Jogo 1
+
+@FluminenseFC 3 - 0 @Gremio",scores/Fluminense-Grêmio.jpg,2020-05-03 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @Palmeiras",next-match/Vasco-Palmeiras.jpg,2020-05-03 14:05:00,False
+sc,"Rodada 20 - Jogo 2
+
+@VascodaGama 4 - 2 @Palmeiras",scores/Vasco-Palmeiras.jpg,2020-05-03 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @goiasoficial",next-match/São Paulo-Goiás.jpg,2020-05-03 15:05:00,False
+sc,"Rodada 20 - Jogo 3
+
+@SaoPauloFC 2 - 1 @goiasoficial",scores/São Paulo-Goiás.jpg,2020-05-03 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @SantosFC",next-match/Red Bull Bragantino-Santos.jpg,2020-05-03 16:05:00,False
+sc,"Rodada 20 - Jogo 4
+
+@RedBullBraga 2 - 0 @SantosFC",scores/Red Bull Bragantino-Santos.jpg,2020-05-03 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @Flamengo",next-match/Atlético Mineiro-Flamengo.jpg,2020-05-03 17:05:00,False
+sc,"Rodada 20 - Jogo 5
+
+@Atletico 3 - 0 @Flamengo",scores/Atlético Mineiro-Flamengo.jpg,2020-05-03 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @Coritiba",next-match/Internacional-Coritiba.jpg,2020-05-03 18:05:00,False
+sc,"Rodada 20 - Jogo 6
+
+@SCInternacional 0 - 1 @Coritiba",scores/Internacional-Coritiba.jpg,2020-05-03 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @Botafogo",next-match/Bahia-Botafogo.jpg,2020-05-03 19:05:00,False
+sc,"Rodada 20 - Jogo 7
+
+@ECBahia 1 - 1 @Botafogo",scores/Bahia-Botafogo.jpg,2020-05-03 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @FortalezaEC",next-match/Athletico Paranaense-Fortaleza.jpg,2020-05-03 20:05:00,False
+sc,"Rodada 20 - Jogo 8
+
+@AthleticoPR 1 - 2 @FortalezaEC",scores/Athletico Paranaense-Fortaleza.jpg,2020-05-03 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @sportrecife",next-match/Ceará-Sport.jpg,2020-05-03 21:05:00,False
+sc,"Rodada 20 - Jogo 9
+
+@CearaSC 1 - 0 @sportrecife",scores/Ceará-Sport.jpg,2020-05-03 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @Corinthians",next-match/Atlético Goianiense-Corinthians.jpg,2020-05-03 22:05:00,False
+sc,"Rodada 20 - Jogo 10
+
+@ACGOficial 2 - 0 @Corinthians",scores/Atlético Goianiense-Corinthians.jpg,2020-05-03 23:00:00,False
+st,Classificação:,standings/20.jpg,2020-05-03 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/21.jpg,2020-05-03 23:10:00,False
+sc,"Rodada 21 - Jogo 1
+
+@Flamengo 1 - 2 @ACGOficial",scores/Flamengo-Atlético Goianiense.jpg,2020-05-04 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @RedBullBraga",next-match/Botafogo-Red Bull Bragantino.jpg,2020-05-04 14:05:00,False
+sc,"Rodada 21 - Jogo 2
+
+@Botafogo 1 - 1 @RedBullBraga",scores/Botafogo-Red Bull Bragantino.jpg,2020-05-04 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @FluminenseFC",next-match/Palmeiras-Fluminense.jpg,2020-05-04 15:05:00,False
+sc,"Rodada 21 - Jogo 3
+
+@Palmeiras 2 - 0 @FluminenseFC",scores/Palmeiras-Fluminense.jpg,2020-05-04 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @SCInternacional",next-match/Santos-Internacional.jpg,2020-05-04 16:05:00,False
+sc,"Rodada 21 - Jogo 4
+
+@SantosFC 1 - 0 @SCInternacional",scores/Santos-Internacional.jpg,2020-05-04 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @Atletico",next-match/Corinthians-Atlético Mineiro.jpg,2020-05-04 17:05:00,False
+sc,"Rodada 21 - Jogo 5
+
+@Corinthians 2 - 1 @Atletico",scores/Corinthians-Atlético Mineiro.jpg,2020-05-04 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @CearaSC",next-match/Grêmio-Ceará.jpg,2020-05-04 18:05:00,False
+sc,"Rodada 21 - Jogo 6
+
+@Gremio 3 - 0 @CearaSC",scores/Grêmio-Ceará.jpg,2020-05-04 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @VascodaGama",next-match/Sport-Vasco.jpg,2020-05-04 19:05:00,False
+sc,"Rodada 21 - Jogo 7
+
+@sportrecife 1 - 1 @VascodaGama",scores/Sport-Vasco.jpg,2020-05-04 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @ECBahia",next-match/Coritiba-Bahia.jpg,2020-05-04 20:05:00,False
+sc,"Rodada 21 - Jogo 8
+
+@Coritiba 0 - 1 @ECBahia",scores/Coritiba-Bahia.jpg,2020-05-04 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @SaoPauloFC",next-match/Fortaleza-São Paulo.jpg,2020-05-04 21:05:00,False
+sc,"Rodada 21 - Jogo 9
+
+@FortalezaEC 0 - 1 @SaoPauloFC",scores/Fortaleza-São Paulo.jpg,2020-05-04 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @AthleticoPR",next-match/Goiás-Athletico Paranaense.jpg,2020-05-04 22:05:00,False
+sc,"Rodada 21 - Jogo 10
+
+@goiasoficial 0 - 1 @AthleticoPR",scores/Goiás-Athletico Paranaense.jpg,2020-05-04 23:00:00,False
+st,Classificação:,standings/21.jpg,2020-05-04 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/22.jpg,2020-05-04 23:10:00,False
+sc,"Rodada 22 - Jogo 1
+
+@Flamengo 0 - 1 @Coritiba",scores/Flamengo-Coritiba.jpg,2020-05-05 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @FortalezaEC",next-match/Botafogo-Fortaleza.jpg,2020-05-05 14:05:00,False
+sc,"Rodada 22 - Jogo 2
+
+@Botafogo 1 - 0 @FortalezaEC",scores/Botafogo-Fortaleza.jpg,2020-05-05 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @VascodaGama",next-match/São Paulo-Vasco.jpg,2020-05-05 15:05:00,False
+sc,"Rodada 22 - Jogo 3
+
+@SaoPauloFC 2 - 2 @VascodaGama",scores/São Paulo-Vasco.jpg,2020-05-05 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @ECBahia",next-match/Red Bull Bragantino-Bahia.jpg,2020-05-05 16:05:00,False
+sc,"Rodada 22 - Jogo 4
+
+@RedBullBraga 2 - 3 @ECBahia",scores/Red Bull Bragantino-Bahia.jpg,2020-05-05 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @Gremio",next-match/Corinthians-Grêmio.jpg,2020-05-05 17:05:00,False
+sc,"Rodada 22 - Jogo 5
+
+@Corinthians 1 - 2 @Gremio",scores/Corinthians-Grêmio.jpg,2020-05-05 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @FluminenseFC",next-match/Internacional-Fluminense.jpg,2020-05-05 18:05:00,False
+sc,"Rodada 22 - Jogo 6
+
+@SCInternacional 3 - 1 @FluminenseFC",scores/Internacional-Fluminense.jpg,2020-05-05 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @ACGOficial",next-match/Sport-Atlético Goianiense.jpg,2020-05-05 19:05:00,False
+sc,"Rodada 22 - Jogo 7
+
+@sportrecife 2 - 2 @ACGOficial",scores/Sport-Atlético Goianiense.jpg,2020-05-05 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @SantosFC",next-match/Athletico Paranaense-Santos.jpg,2020-05-05 20:05:00,False
+sc,"Rodada 22 - Jogo 8
+
+@AthleticoPR 0 - 1 @SantosFC",scores/Athletico Paranaense-Santos.jpg,2020-05-05 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @Atletico",next-match/Ceará-Atlético Mineiro.jpg,2020-05-05 21:05:00,False
+sc,"Rodada 22 - Jogo 9
+
+@CearaSC 1 - 0 @Atletico",scores/Ceará-Atlético Mineiro.jpg,2020-05-05 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @Palmeiras",next-match/Goiás-Palmeiras.jpg,2020-05-05 22:05:00,False
+sc,"Rodada 22 - Jogo 10
+
+@goiasoficial 2 - 1 @Palmeiras",scores/Goiás-Palmeiras.jpg,2020-05-05 23:00:00,False
+st,Classificação:,standings/22.jpg,2020-05-05 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/23.jpg,2020-05-05 23:10:00,False
+sc,"Rodada 23 - Jogo 1
+
+@FluminenseFC 1 - 0 @RedBullBraga",scores/Fluminense-Red Bull Bragantino.jpg,2020-05-06 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @CearaSC",next-match/Vasco-Ceará.jpg,2020-05-06 14:05:00,False
+sc,"Rodada 23 - Jogo 2
+
+@VascodaGama 0 - 0 @CearaSC",scores/Vasco-Ceará.jpg,2020-05-06 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @AthleticoPR",next-match/Palmeiras-Athletico Paranaense.jpg,2020-05-06 15:05:00,False
+sc,"Rodada 23 - Jogo 3
+
+@Palmeiras 1 - 1 @AthleticoPR",scores/Palmeiras-Athletico Paranaense.jpg,2020-05-06 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @sportrecife",next-match/Santos-Sport.jpg,2020-05-06 16:05:00,False
+sc,"Rodada 23 - Jogo 4
+
+@SantosFC 1 - 2 @sportrecife",scores/Santos-Sport.jpg,2020-05-06 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @Botafogo",next-match/Atlético Mineiro-Botafogo.jpg,2020-05-06 17:05:00,False
+sc,"Rodada 23 - Jogo 5
+
+@Atletico 0 - 1 @Botafogo",scores/Atlético Mineiro-Botafogo.jpg,2020-05-06 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @Flamengo",next-match/Grêmio-Flamengo.jpg,2020-05-06 18:05:00,False
+sc,"Rodada 23 - Jogo 6
+
+@Gremio 2 - 0 @Flamengo",scores/Grêmio-Flamengo.jpg,2020-05-06 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @SaoPauloFC",next-match/Bahia-São Paulo.jpg,2020-05-06 19:05:00,False
+sc,"Rodada 23 - Jogo 7
+
+@ECBahia 0 - 1 @SaoPauloFC",scores/Bahia-São Paulo.jpg,2020-05-06 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @Corinthians",next-match/Coritiba-Corinthians.jpg,2020-05-06 20:05:00,False
+sc,"Rodada 23 - Jogo 8
+
+@Coritiba 1 - 1 @Corinthians",scores/Coritiba-Corinthians.jpg,2020-05-06 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @goiasoficial",next-match/Fortaleza-Goiás.jpg,2020-05-06 21:05:00,False
+sc,"Rodada 23 - Jogo 9
+
+@FortalezaEC 3 - 1 @goiasoficial",scores/Fortaleza-Goiás.jpg,2020-05-06 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @SCInternacional",next-match/Atlético Goianiense-Internacional.jpg,2020-05-06 22:05:00,False
+sc,"Rodada 23 - Jogo 10
+
+@ACGOficial 4 - 3 @SCInternacional",scores/Atlético Goianiense-Internacional.jpg,2020-05-06 23:00:00,False
+st,Classificação:,standings/23.jpg,2020-05-06 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/24.jpg,2020-05-06 23:10:00,False
+sc,"Rodada 24 - Jogo 1
+
+@FluminenseFC 1 - 1 @AthleticoPR",scores/Fluminense-Athletico Paranaense.jpg,2020-05-07 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @Flamengo",next-match/Botafogo-Flamengo.jpg,2020-05-07 14:05:00,False
+sc,"Rodada 24 - Jogo 2
+
+@Botafogo 1 - 0 @Flamengo",scores/Botafogo-Flamengo.jpg,2020-05-07 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @sportrecife",next-match/São Paulo-Sport.jpg,2020-05-07 15:05:00,False
+sc,"Rodada 24 - Jogo 3
+
+@SaoPauloFC 1 - 1 @sportrecife",scores/São Paulo-Sport.jpg,2020-05-07 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @Palmeiras",next-match/Santos-Palmeiras.jpg,2020-05-07 16:05:00,False
+sc,"Rodada 24 - Jogo 4
+
+@SantosFC 1 - 2 @Palmeiras",scores/Santos-Palmeiras.jpg,2020-05-07 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @SCInternacional",next-match/Atlético Mineiro-Internacional.jpg,2020-05-07 17:05:00,False
+sc,"Rodada 24 - Jogo 5
+
+@Atletico 3 - 4 @SCInternacional",scores/Atlético Mineiro-Internacional.jpg,2020-05-07 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @VascodaGama",next-match/Grêmio-Vasco.jpg,2020-05-07 18:05:00,False
+sc,"Rodada 24 - Jogo 6
+
+@Gremio 1 - 1 @VascodaGama",scores/Grêmio-Vasco.jpg,2020-05-07 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @CearaSC",next-match/Bahia-Ceará.jpg,2020-05-07 19:05:00,False
+sc,"Rodada 24 - Jogo 7
+
+@ECBahia 1 - 0 @CearaSC",scores/Bahia-Ceará.jpg,2020-05-07 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @RedBullBraga",next-match/Coritiba-Red Bull Bragantino.jpg,2020-05-07 20:05:00,False
+sc,"Rodada 24 - Jogo 8
+
+@Coritiba 2 - 0 @RedBullBraga",scores/Coritiba-Red Bull Bragantino.jpg,2020-05-07 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @Corinthians",next-match/Fortaleza-Corinthians.jpg,2020-05-07 21:05:00,False
+sc,"Rodada 24 - Jogo 9
+
+@FortalezaEC 3 - 1 @Corinthians",scores/Fortaleza-Corinthians.jpg,2020-05-07 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @goiasoficial",next-match/Atlético Goianiense-Goiás.jpg,2020-05-07 22:05:00,False
+sc,"Rodada 24 - Jogo 10
+
+@ACGOficial 3 - 1 @goiasoficial",scores/Atlético Goianiense-Goiás.jpg,2020-05-07 23:00:00,False
+st,Classificação:,standings/24.jpg,2020-05-07 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/25.jpg,2020-05-07 23:10:00,False
+sc,"Rodada 25 - Jogo 1
+
+@Flamengo 0 - 0 @SantosFC",scores/Flamengo-Santos.jpg,2020-05-08 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @FluminenseFC",next-match/Vasco-Fluminense.jpg,2020-05-08 14:05:00,False
+sc,"Rodada 25 - Jogo 2
+
+@VascodaGama 2 - 0 @FluminenseFC",scores/Vasco-Fluminense.jpg,2020-05-08 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @ECBahia",next-match/Palmeiras-Bahia.jpg,2020-05-08 15:05:00,False
+sc,"Rodada 25 - Jogo 3
+
+@Palmeiras 3 - 0 @ECBahia",scores/Palmeiras-Bahia.jpg,2020-05-08 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @FortalezaEC",next-match/Red Bull Bragantino-Fortaleza.jpg,2020-05-08 16:05:00,False
+sc,"Rodada 25 - Jogo 4
+
+@RedBullBraga 2 - 1 @FortalezaEC",scores/Red Bull Bragantino-Fortaleza.jpg,2020-05-08 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @SaoPauloFC",next-match/Corinthians-São Paulo.jpg,2020-05-08 17:05:00,False
+sc,"Rodada 25 - Jogo 5
+
+@Corinthians 1 - 0 @SaoPauloFC",scores/Corinthians-São Paulo.jpg,2020-05-08 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @Botafogo",next-match/Internacional-Botafogo.jpg,2020-05-08 18:05:00,False
+sc,"Rodada 25 - Jogo 6
+
+@SCInternacional 0 - 2 @Botafogo",scores/Internacional-Botafogo.jpg,2020-05-08 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @Coritiba",next-match/Sport-Coritiba.jpg,2020-05-08 19:05:00,False
+sc,"Rodada 25 - Jogo 7
+
+@sportrecife 0 - 1 @Coritiba",scores/Sport-Coritiba.jpg,2020-05-08 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @Atletico",next-match/Athletico Paranaense-Atlético Mineiro.jpg,2020-05-08 20:05:00,False
+sc,"Rodada 25 - Jogo 8
+
+@AthleticoPR 1 - 0 @Atletico",scores/Athletico Paranaense-Atlético Mineiro.jpg,2020-05-08 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @ACGOficial",next-match/Ceará-Atlético Goianiense.jpg,2020-05-08 21:05:00,False
+sc,"Rodada 25 - Jogo 9
+
+@CearaSC 1 - 0 @ACGOficial",scores/Ceará-Atlético Goianiense.jpg,2020-05-08 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @Gremio",next-match/Goiás-Grêmio.jpg,2020-05-08 22:05:00,False
+sc,"Rodada 25 - Jogo 10
+
+@goiasoficial 4 - 1 @Gremio",scores/Goiás-Grêmio.jpg,2020-05-08 23:00:00,False
+st,Classificação:,standings/25.jpg,2020-05-08 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/26.jpg,2020-05-08 23:10:00,False
+sc,"Rodada 26 - Jogo 1
+
+@Flamengo 0 - 1 @ECBahia",scores/Flamengo-Bahia.jpg,2020-05-09 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @SantosFC",next-match/Vasco-Santos.jpg,2020-05-09 14:05:00,False
+sc,"Rodada 26 - Jogo 2
+
+@VascodaGama 4 - 1 @SantosFC",scores/Vasco-Santos.jpg,2020-05-09 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @Atletico",next-match/São Paulo-Atlético Mineiro.jpg,2020-05-09 15:05:00,False
+sc,"Rodada 26 - Jogo 3
+
+@SaoPauloFC 1 - 2 @Atletico",scores/São Paulo-Atlético Mineiro.jpg,2020-05-09 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @AthleticoPR",next-match/Red Bull Bragantino-Athletico Paranaense.jpg,2020-05-09 16:05:00,False
+sc,"Rodada 26 - Jogo 4
+
+@RedBullBraga 1 - 2 @AthleticoPR",scores/Red Bull Bragantino-Athletico Paranaense.jpg,2020-05-09 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @goiasoficial",next-match/Corinthians-Goiás.jpg,2020-05-09 17:05:00,False
+sc,"Rodada 26 - Jogo 5
+
+@Corinthians 0 - 1 @goiasoficial",scores/Corinthians-Goiás.jpg,2020-05-09 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @Palmeiras",next-match/Internacional-Palmeiras.jpg,2020-05-09 18:05:00,False
+sc,"Rodada 26 - Jogo 6
+
+@SCInternacional 1 - 0 @Palmeiras",scores/Internacional-Palmeiras.jpg,2020-05-09 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @Gremio",next-match/Sport-Grêmio.jpg,2020-05-09 19:05:00,False
+sc,"Rodada 26 - Jogo 7
+
+@sportrecife 1 - 3 @Gremio",scores/Sport-Grêmio.jpg,2020-05-09 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @Botafogo",next-match/Coritiba-Botafogo.jpg,2020-05-09 20:05:00,False
+sc,"Rodada 26 - Jogo 8
+
+@Coritiba 1 - 1 @Botafogo",scores/Coritiba-Botafogo.jpg,2020-05-09 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @CearaSC",next-match/Fortaleza-Ceará.jpg,2020-05-09 21:05:00,False
+sc,"Rodada 26 - Jogo 9
+
+@FortalezaEC 0 - 2 @CearaSC",scores/Fortaleza-Ceará.jpg,2020-05-09 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @FluminenseFC",next-match/Atlético Goianiense-Fluminense.jpg,2020-05-09 22:05:00,False
+sc,"Rodada 26 - Jogo 10
+
+@ACGOficial 1 - 4 @FluminenseFC",scores/Atlético Goianiense-Fluminense.jpg,2020-05-09 23:00:00,False
+st,Classificação:,standings/26.jpg,2020-05-09 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/27.jpg,2020-05-09 23:10:00,False
+sc,"Rodada 27 - Jogo 1
+
+@FluminenseFC 1 - 0 @SaoPauloFC",scores/Fluminense-São Paulo.jpg,2020-05-10 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @Corinthians",next-match/Botafogo-Corinthians.jpg,2020-05-10 14:05:00,False
+sc,"Rodada 27 - Jogo 2
+
+@Botafogo 1 - 2 @Corinthians",scores/Botafogo-Corinthians.jpg,2020-05-10 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @RedBullBraga",next-match/Palmeiras-Red Bull Bragantino.jpg,2020-05-10 15:05:00,False
+sc,"Rodada 27 - Jogo 3
+
+@Palmeiras 3 - 1 @RedBullBraga",scores/Palmeiras-Red Bull Bragantino.jpg,2020-05-10 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @CearaSC",next-match/Santos-Ceará.jpg,2020-05-10 16:05:00,False
+sc,"Rodada 27 - Jogo 4
+
+@SantosFC 2 - 1 @CearaSC",scores/Santos-Ceará.jpg,2020-05-10 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @Coritiba",next-match/Atlético Mineiro-Coritiba.jpg,2020-05-10 17:05:00,False
+sc,"Rodada 27 - Jogo 5
+
+@Atletico 2 - 3 @Coritiba",scores/Atlético Mineiro-Coritiba.jpg,2020-05-10 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @ACGOficial",next-match/Grêmio-Atlético Goianiense.jpg,2020-05-10 18:05:00,False
+sc,"Rodada 27 - Jogo 6
+
+@Gremio 1 - 1 @ACGOficial",scores/Grêmio-Atlético Goianiense.jpg,2020-05-10 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @SCInternacional",next-match/Bahia-Internacional.jpg,2020-05-10 19:05:00,False
+sc,"Rodada 27 - Jogo 7
+
+@ECBahia 1 - 2 @SCInternacional",scores/Bahia-Internacional.jpg,2020-05-10 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @VascodaGama",next-match/Athletico Paranaense-Vasco.jpg,2020-05-10 20:05:00,False
+sc,"Rodada 27 - Jogo 8
+
+@AthleticoPR 1 - 0 @VascodaGama",scores/Athletico Paranaense-Vasco.jpg,2020-05-10 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @Flamengo",next-match/Fortaleza-Flamengo.jpg,2020-05-10 21:05:00,False
+sc,"Rodada 27 - Jogo 9
+
+@FortalezaEC 2 - 0 @Flamengo",scores/Fortaleza-Flamengo.jpg,2020-05-10 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @sportrecife",next-match/Goiás-Sport.jpg,2020-05-10 22:05:00,False
+sc,"Rodada 27 - Jogo 10
+
+@goiasoficial 3 - 2 @sportrecife",scores/Goiás-Sport.jpg,2020-05-10 23:00:00,False
+st,Classificação:,standings/27.jpg,2020-05-10 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/28.jpg,2020-05-10 23:10:00,False
+sc,"Rodada 28 - Jogo 1
+
+@Flamengo 3 - 0 @FluminenseFC",scores/Flamengo-Fluminense.jpg,2020-05-11 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @AthleticoPR",next-match/Botafogo-Athletico Paranaense.jpg,2020-05-11 14:05:00,False
+sc,"Rodada 28 - Jogo 2
+
+@Botafogo 3 - 0 @AthleticoPR",scores/Botafogo-Athletico Paranaense.jpg,2020-05-11 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @Corinthians",next-match/Palmeiras-Corinthians.jpg,2020-05-11 15:05:00,False
+sc,"Rodada 28 - Jogo 3
+
+@Palmeiras 0 - 1 @Corinthians",scores/Palmeiras-Corinthians.jpg,2020-05-11 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @SaoPauloFC",next-match/Red Bull Bragantino-São Paulo.jpg,2020-05-11 16:05:00,False
+sc,"Rodada 28 - Jogo 4
+
+@RedBullBraga 0 - 1 @SaoPauloFC",scores/Red Bull Bragantino-São Paulo.jpg,2020-05-11 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @SantosFC",next-match/Atlético Mineiro-Santos.jpg,2020-05-11 17:05:00,False
+sc,"Rodada 28 - Jogo 5
+
+@Atletico 2 - 3 @SantosFC",scores/Atlético Mineiro-Santos.jpg,2020-05-11 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @ECBahia",next-match/Grêmio-Bahia.jpg,2020-05-11 18:05:00,False
+sc,"Rodada 28 - Jogo 6
+
+@Gremio 2 - 1 @ECBahia",scores/Grêmio-Bahia.jpg,2020-05-11 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @FortalezaEC",next-match/Sport-Fortaleza.jpg,2020-05-11 19:05:00,False
+sc,"Rodada 28 - Jogo 7
+
+@sportrecife 1 - 2 @FortalezaEC",scores/Sport-Fortaleza.jpg,2020-05-11 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @goiasoficial",next-match/Coritiba-Goiás.jpg,2020-05-11 20:05:00,False
+sc,"Rodada 28 - Jogo 8
+
+@Coritiba 2 - 1 @goiasoficial",scores/Coritiba-Goiás.jpg,2020-05-11 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @SCInternacional",next-match/Ceará-Internacional.jpg,2020-05-11 21:05:00,False
+sc,"Rodada 28 - Jogo 9
+
+@CearaSC 0 - 1 @SCInternacional",scores/Ceará-Internacional.jpg,2020-05-11 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @VascodaGama",next-match/Atlético Goianiense-Vasco.jpg,2020-05-11 22:05:00,False
+sc,"Rodada 28 - Jogo 10
+
+@ACGOficial 0 - 2 @VascodaGama",scores/Atlético Goianiense-Vasco.jpg,2020-05-11 23:00:00,False
+st,Classificação:,standings/28.jpg,2020-05-11 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/29.jpg,2020-05-11 23:10:00,False
+sc,"Rodada 29 - Jogo 1
+
+@Flamengo 0 - 0 @CearaSC",scores/Flamengo-Ceará.jpg,2020-05-12 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @Botafogo",next-match/Vasco-Botafogo.jpg,2020-05-12 14:05:00,False
+sc,"Rodada 29 - Jogo 2
+
+@VascodaGama 1 - 1 @Botafogo",scores/Vasco-Botafogo.jpg,2020-05-12 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @SantosFC",next-match/São Paulo-Santos.jpg,2020-05-12 15:05:00,False
+sc,"Rodada 29 - Jogo 3
+
+@SaoPauloFC 1 - 0 @SantosFC",scores/São Paulo-Santos.jpg,2020-05-12 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @Atletico",next-match/Red Bull Bragantino-Atlético Mineiro.jpg,2020-05-12 16:05:00,False
+sc,"Rodada 29 - Jogo 4
+
+@RedBullBraga 3 - 1 @Atletico",scores/Red Bull Bragantino-Atlético Mineiro.jpg,2020-05-12 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @FluminenseFC",next-match/Corinthians-Fluminense.jpg,2020-05-12 17:05:00,False
+sc,"Rodada 29 - Jogo 5
+
+@Corinthians 2 - 2 @FluminenseFC",scores/Corinthians-Fluminense.jpg,2020-05-12 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @goiasoficial",next-match/Internacional-Goiás.jpg,2020-05-12 18:05:00,False
+sc,"Rodada 29 - Jogo 6
+
+@SCInternacional 3 - 2 @goiasoficial",scores/Internacional-Goiás.jpg,2020-05-12 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @Palmeiras",next-match/Sport-Palmeiras.jpg,2020-05-12 19:05:00,False
+sc,"Rodada 29 - Jogo 7
+
+@sportrecife 2 - 1 @Palmeiras",scores/Sport-Palmeiras.jpg,2020-05-12 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @AthleticoPR",next-match/Coritiba-Athletico Paranaense.jpg,2020-05-12 20:05:00,False
+sc,"Rodada 29 - Jogo 8
+
+@Coritiba 3 - 0 @AthleticoPR",scores/Coritiba-Athletico Paranaense.jpg,2020-05-12 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @Gremio",next-match/Fortaleza-Grêmio.jpg,2020-05-12 21:05:00,False
+sc,"Rodada 29 - Jogo 9
+
+@FortalezaEC 1 - 0 @Gremio",scores/Fortaleza-Grêmio.jpg,2020-05-12 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @ECBahia",next-match/Atlético Goianiense-Bahia.jpg,2020-05-12 22:05:00,False
+sc,"Rodada 29 - Jogo 10
+
+@ACGOficial 1 - 0 @ECBahia",scores/Atlético Goianiense-Bahia.jpg,2020-05-12 23:00:00,False
+st,Classificação:,standings/29.jpg,2020-05-12 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/30.jpg,2020-05-12 23:10:00,False
+sc,"Rodada 30 - Jogo 1
+
+@FluminenseFC 2 - 1 @sportrecife",scores/Fluminense-Sport.jpg,2020-05-13 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @Coritiba",next-match/Vasco-Coritiba.jpg,2020-05-13 14:05:00,False
+sc,"Rodada 30 - Jogo 2
+
+@VascodaGama 3 - 0 @Coritiba",scores/Vasco-Coritiba.jpg,2020-05-13 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @Gremio",next-match/Palmeiras-Grêmio.jpg,2020-05-13 15:05:00,False
+sc,"Rodada 30 - Jogo 3
+
+@Palmeiras 0 - 0 @Gremio",scores/Palmeiras-Grêmio.jpg,2020-05-13 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @Botafogo",next-match/Santos-Botafogo.jpg,2020-05-13 16:05:00,False
+sc,"Rodada 30 - Jogo 4
+
+@SantosFC 2 - 1 @Botafogo",scores/Santos-Botafogo.jpg,2020-05-13 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @ACGOficial",next-match/Atlético Mineiro-Atlético Goianiense.jpg,2020-05-13 17:05:00,False
+sc,"Rodada 30 - Jogo 5
+
+@Atletico 1 - 3 @ACGOficial",scores/Atlético Mineiro-Atlético Goianiense.jpg,2020-05-13 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @FortalezaEC",next-match/Internacional-Fortaleza.jpg,2020-05-13 18:05:00,False
+sc,"Rodada 30 - Jogo 6
+
+@SCInternacional 1 - 0 @FortalezaEC",scores/Internacional-Fortaleza.jpg,2020-05-13 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @Corinthians",next-match/Bahia-Corinthians.jpg,2020-05-13 19:05:00,False
+sc,"Rodada 30 - Jogo 7
+
+@ECBahia 1 - 1 @Corinthians",scores/Bahia-Corinthians.jpg,2020-05-13 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @SaoPauloFC",next-match/Athletico Paranaense-São Paulo.jpg,2020-05-13 20:05:00,False
+sc,"Rodada 30 - Jogo 8
+
+@AthleticoPR 1 - 2 @SaoPauloFC",scores/Athletico Paranaense-São Paulo.jpg,2020-05-13 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @RedBullBraga",next-match/Ceará-Red Bull Bragantino.jpg,2020-05-13 21:05:00,False
+sc,"Rodada 30 - Jogo 9
+
+@CearaSC 1 - 1 @RedBullBraga",scores/Ceará-Red Bull Bragantino.jpg,2020-05-13 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @Flamengo",next-match/Goiás-Flamengo.jpg,2020-05-13 22:05:00,False
+sc,"Rodada 30 - Jogo 10
+
+@goiasoficial 2 - 3 @Flamengo",scores/Goiás-Flamengo.jpg,2020-05-13 23:00:00,False
+st,Classificação:,standings/30.jpg,2020-05-13 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/31.jpg,2020-05-13 23:10:00,False
+sc,"Rodada 31 - Jogo 1
+
+@Flamengo 3 - 1 @Palmeiras",scores/Flamengo-Palmeiras.jpg,2020-05-14 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @ACGOficial",next-match/Botafogo-Atlético Goianiense.jpg,2020-05-14 14:05:00,False
+sc,"Rodada 31 - Jogo 2
+
+@Botafogo 2 - 0 @ACGOficial",scores/Botafogo-Atlético Goianiense.jpg,2020-05-14 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @SCInternacional",next-match/São Paulo-Internacional.jpg,2020-05-14 15:05:00,False
+sc,"Rodada 31 - Jogo 3
+
+@SaoPauloFC 1 - 1 @SCInternacional",scores/São Paulo-Internacional.jpg,2020-05-14 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @VascodaGama",next-match/Red Bull Bragantino-Vasco.jpg,2020-05-14 16:05:00,False
+sc,"Rodada 31 - Jogo 4
+
+@RedBullBraga 1 - 0 @VascodaGama",scores/Red Bull Bragantino-Vasco.jpg,2020-05-14 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @sportrecife",next-match/Corinthians-Sport.jpg,2020-05-14 17:05:00,False
+sc,"Rodada 31 - Jogo 5
+
+@Corinthians 0 - 5 @sportrecife",scores/Corinthians-Sport.jpg,2020-05-14 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @Atletico",next-match/Grêmio-Atlético Mineiro.jpg,2020-05-14 18:05:00,False
+sc,"Rodada 31 - Jogo 6
+
+@Gremio 1 - 1 @Atletico",scores/Grêmio-Atlético Mineiro.jpg,2020-05-14 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @AthleticoPR",next-match/Bahia-Athletico Paranaense.jpg,2020-05-14 19:05:00,False
+sc,"Rodada 31 - Jogo 7
+
+@ECBahia 1 - 1 @AthleticoPR",scores/Bahia-Athletico Paranaense.jpg,2020-05-14 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @FluminenseFC",next-match/Coritiba-Fluminense.jpg,2020-05-14 20:05:00,False
+sc,"Rodada 31 - Jogo 8
+
+@Coritiba 0 - 0 @FluminenseFC",scores/Coritiba-Fluminense.jpg,2020-05-14 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @SantosFC",next-match/Fortaleza-Santos.jpg,2020-05-14 21:05:00,False
+sc,"Rodada 31 - Jogo 9
+
+@FortalezaEC 2 - 0 @SantosFC",scores/Fortaleza-Santos.jpg,2020-05-14 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @CearaSC",next-match/Goiás-Ceará.jpg,2020-05-14 22:05:00,False
+sc,"Rodada 31 - Jogo 10
+
+@goiasoficial 0 - 2 @CearaSC",scores/Goiás-Ceará.jpg,2020-05-14 23:00:00,False
+st,Classificação:,standings/31.jpg,2020-05-14 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/32.jpg,2020-05-14 23:10:00,False
+sc,"Rodada 32 - Jogo 1
+
+@FluminenseFC 3 - 1 @Botafogo",scores/Fluminense-Botafogo.jpg,2020-05-15 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @Atletico",next-match/Vasco-Atlético Mineiro.jpg,2020-05-15 14:05:00,False
+sc,"Rodada 32 - Jogo 2
+
+@VascodaGama 2 - 0 @Atletico",scores/Vasco-Atlético Mineiro.jpg,2020-05-15 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @Coritiba",next-match/São Paulo-Coritiba.jpg,2020-05-15 15:05:00,False
+sc,"Rodada 32 - Jogo 3
+
+@SaoPauloFC 0 - 2 @Coritiba",scores/São Paulo-Coritiba.jpg,2020-05-15 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @goiasoficial",next-match/Santos-Goiás.jpg,2020-05-15 16:05:00,False
+sc,"Rodada 32 - Jogo 4
+
+@SantosFC 1 - 2 @goiasoficial",scores/Santos-Goiás.jpg,2020-05-15 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @RedBullBraga",next-match/Corinthians-Red Bull Bragantino.jpg,2020-05-15 17:05:00,False
+sc,"Rodada 32 - Jogo 5
+
+@Corinthians 2 - 0 @RedBullBraga",scores/Corinthians-Red Bull Bragantino.jpg,2020-05-15 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @Gremio",next-match/Internacional-Grêmio.jpg,2020-05-15 18:05:00,False
+sc,"Rodada 32 - Jogo 6
+
+@SCInternacional 0 - 3 @Gremio",scores/Internacional-Grêmio.jpg,2020-05-15 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @ECBahia",next-match/Sport-Bahia.jpg,2020-05-15 19:05:00,False
+sc,"Rodada 32 - Jogo 7
+
+@sportrecife 0 - 0 @ECBahia",scores/Sport-Bahia.jpg,2020-05-15 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @Flamengo",next-match/Athletico Paranaense-Flamengo.jpg,2020-05-15 20:05:00,False
+sc,"Rodada 32 - Jogo 8
+
+@AthleticoPR 0 - 4 @Flamengo",scores/Athletico Paranaense-Flamengo.jpg,2020-05-15 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @Palmeiras",next-match/Ceará-Palmeiras.jpg,2020-05-15 21:05:00,False
+sc,"Rodada 32 - Jogo 9
+
+@CearaSC 2 - 0 @Palmeiras",scores/Ceará-Palmeiras.jpg,2020-05-15 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @FortalezaEC",next-match/Atlético Goianiense-Fortaleza.jpg,2020-05-15 22:05:00,False
+sc,"Rodada 32 - Jogo 10
+
+@ACGOficial 5 - 0 @FortalezaEC",scores/Atlético Goianiense-Fortaleza.jpg,2020-05-15 23:00:00,False
+st,Classificação:,standings/32.jpg,2020-05-15 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/33.jpg,2020-05-15 23:10:00,False
+sc,"Rodada 33 - Jogo 1
+
+@FluminenseFC 0 - 1 @goiasoficial",scores/Fluminense-Goiás.jpg,2020-05-16 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @ECBahia",next-match/Vasco-Bahia.jpg,2020-05-16 14:05:00,False
+sc,"Rodada 33 - Jogo 2
+
+@VascodaGama 1 - 0 @ECBahia",scores/Vasco-Bahia.jpg,2020-05-16 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @Botafogo",next-match/Palmeiras-Botafogo.jpg,2020-05-16 15:05:00,False
+sc,"Rodada 33 - Jogo 3
+
+@Palmeiras 0 - 0 @Botafogo",scores/Palmeiras-Botafogo.jpg,2020-05-16 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @Corinthians",next-match/Santos-Corinthians.jpg,2020-05-16 16:05:00,False
+sc,"Rodada 33 - Jogo 4
+
+@SantosFC 0 - 1 @Corinthians",scores/Santos-Corinthians.jpg,2020-05-16 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @FortalezaEC",next-match/Atlético Mineiro-Fortaleza.jpg,2020-05-16 17:05:00,False
+sc,"Rodada 33 - Jogo 5
+
+@Atletico 3 - 0 @FortalezaEC",scores/Atlético Mineiro-Fortaleza.jpg,2020-05-16 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @RedBullBraga",next-match/Internacional-Red Bull Bragantino.jpg,2020-05-16 18:05:00,False
+sc,"Rodada 33 - Jogo 6
+
+@SCInternacional 0 - 0 @RedBullBraga",scores/Internacional-Red Bull Bragantino.jpg,2020-05-16 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @Flamengo",next-match/Sport-Flamengo.jpg,2020-05-16 19:05:00,False
+sc,"Rodada 33 - Jogo 7
+
+@sportrecife 1 - 0 @Flamengo",scores/Sport-Flamengo.jpg,2020-05-16 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @Gremio",next-match/Coritiba-Grêmio.jpg,2020-05-16 20:05:00,False
+sc,"Rodada 33 - Jogo 8
+
+@Coritiba 1 - 1 @Gremio",scores/Coritiba-Grêmio.jpg,2020-05-16 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @AthleticoPR",next-match/Ceará-Athletico Paranaense.jpg,2020-05-16 21:05:00,False
+sc,"Rodada 33 - Jogo 9
+
+@CearaSC 2 - 1 @AthleticoPR",scores/Ceará-Athletico Paranaense.jpg,2020-05-16 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @SaoPauloFC",next-match/Atlético Goianiense-São Paulo.jpg,2020-05-16 22:05:00,False
+sc,"Rodada 33 - Jogo 10
+
+@ACGOficial 1 - 0 @SaoPauloFC",scores/Atlético Goianiense-São Paulo.jpg,2020-05-16 23:00:00,False
+st,Classificação:,standings/33.jpg,2020-05-16 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/34.jpg,2020-05-16 23:10:00,False
+sc,"Rodada 34 - Jogo 1
+
+@Flamengo 1 - 2 @VascodaGama",scores/Flamengo-Vasco.jpg,2020-05-17 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @sportrecife",next-match/Botafogo-Sport.jpg,2020-05-17 14:05:00,False
+sc,"Rodada 34 - Jogo 2
+
+@Botafogo 0 - 0 @sportrecife",scores/Botafogo-Sport.jpg,2020-05-17 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @Palmeiras",next-match/São Paulo-Palmeiras.jpg,2020-05-17 15:05:00,False
+sc,"Rodada 34 - Jogo 3
+
+@SaoPauloFC 2 - 0 @Palmeiras",scores/São Paulo-Palmeiras.jpg,2020-05-17 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @ACGOficial",next-match/Red Bull Bragantino-Atlético Goianiense.jpg,2020-05-17 16:05:00,False
+sc,"Rodada 34 - Jogo 4
+
+@RedBullBraga 0 - 1 @ACGOficial",scores/Red Bull Bragantino-Atlético Goianiense.jpg,2020-05-17 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @CearaSC",next-match/Corinthians-Ceará.jpg,2020-05-17 17:05:00,False
+sc,"Rodada 34 - Jogo 5
+
+@Corinthians 0 - 1 @CearaSC",scores/Corinthians-Ceará.jpg,2020-05-17 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @SantosFC",next-match/Grêmio-Santos.jpg,2020-05-17 18:05:00,False
+sc,"Rodada 34 - Jogo 6
+
+@Gremio 0 - 2 @SantosFC",scores/Grêmio-Santos.jpg,2020-05-17 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @FluminenseFC",next-match/Bahia-Fluminense.jpg,2020-05-17 19:05:00,False
+sc,"Rodada 34 - Jogo 7
+
+@ECBahia 1 - 1 @FluminenseFC",scores/Bahia-Fluminense.jpg,2020-05-17 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @SCInternacional",next-match/Athletico Paranaense-Internacional.jpg,2020-05-17 20:05:00,False
+sc,"Rodada 34 - Jogo 8
+
+@AthleticoPR 0 - 1 @SCInternacional",scores/Athletico Paranaense-Internacional.jpg,2020-05-17 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @Coritiba",next-match/Fortaleza-Coritiba.jpg,2020-05-17 21:05:00,False
+sc,"Rodada 34 - Jogo 9
+
+@FortalezaEC 2 - 1 @Coritiba",scores/Fortaleza-Coritiba.jpg,2020-05-17 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @Atletico",next-match/Goiás-Atlético Mineiro.jpg,2020-05-17 22:05:00,False
+sc,"Rodada 34 - Jogo 10
+
+@goiasoficial 1 - 2 @Atletico",scores/Goiás-Atlético Mineiro.jpg,2020-05-17 23:00:00,False
+st,Classificação:,standings/34.jpg,2020-05-17 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/35.jpg,2020-05-17 23:10:00,False
+sc,"Rodada 35 - Jogo 1
+
+@FluminenseFC 1 - 4 @Atletico",scores/Fluminense-Atlético Mineiro.jpg,2020-05-18 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @Gremio",next-match/Botafogo-Grêmio.jpg,2020-05-18 14:05:00,False
+sc,"Rodada 35 - Jogo 2
+
+@Botafogo 1 - 1 @Gremio",scores/Botafogo-Grêmio.jpg,2020-05-18 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @CearaSC",next-match/São Paulo-Ceará.jpg,2020-05-18 15:05:00,False
+sc,"Rodada 35 - Jogo 3
+
+@SaoPauloFC 0 - 1 @CearaSC",scores/São Paulo-Ceará.jpg,2020-05-18 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @Flamengo",next-match/Red Bull Bragantino-Flamengo.jpg,2020-05-18 16:05:00,False
+sc,"Rodada 35 - Jogo 4
+
+@RedBullBraga 2 - 1 @Flamengo",scores/Red Bull Bragantino-Flamengo.jpg,2020-05-18 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @AthleticoPR",next-match/Corinthians-Athletico Paranaense.jpg,2020-05-18 17:05:00,False
+sc,"Rodada 35 - Jogo 5
+
+@Corinthians 2 - 0 @AthleticoPR",scores/Corinthians-Athletico Paranaense.jpg,2020-05-18 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @sportrecife",next-match/Internacional-Sport.jpg,2020-05-18 18:05:00,False
+sc,"Rodada 35 - Jogo 6
+
+@SCInternacional 3 - 0 @sportrecife",scores/Internacional-Sport.jpg,2020-05-18 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @goiasoficial",next-match/Bahia-Goiás.jpg,2020-05-18 19:05:00,False
+sc,"Rodada 35 - Jogo 7
+
+@ECBahia 0 - 1 @goiasoficial",scores/Bahia-Goiás.jpg,2020-05-18 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @Palmeiras",next-match/Coritiba-Palmeiras.jpg,2020-05-18 20:05:00,False
+sc,"Rodada 35 - Jogo 8
+
+@Coritiba 4 - 2 @Palmeiras",scores/Coritiba-Palmeiras.jpg,2020-05-18 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @VascodaGama",next-match/Fortaleza-Vasco.jpg,2020-05-18 21:05:00,False
+sc,"Rodada 35 - Jogo 9
+
+@FortalezaEC 0 - 0 @VascodaGama",scores/Fortaleza-Vasco.jpg,2020-05-18 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @SantosFC",next-match/Atlético Goianiense-Santos.jpg,2020-05-18 22:05:00,False
+sc,"Rodada 35 - Jogo 10
+
+@ACGOficial 0 - 1 @SantosFC",scores/Atlético Goianiense-Santos.jpg,2020-05-18 23:00:00,False
+st,Classificação:,standings/35.jpg,2020-05-18 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/36.jpg,2020-05-18 23:10:00,False
+sc,"Rodada 36 - Jogo 1
+
+@Flamengo 1 - 0 @Corinthians",scores/Flamengo-Corinthians.jpg,2020-05-19 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @SCInternacional",next-match/Vasco-Internacional.jpg,2020-05-19 14:05:00,False
+sc,"Rodada 36 - Jogo 2
+
+@VascodaGama 0 - 0 @SCInternacional",scores/Vasco-Internacional.jpg,2020-05-19 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @FortalezaEC",next-match/Palmeiras-Fortaleza.jpg,2020-05-19 15:05:00,False
+sc,"Rodada 36 - Jogo 3
+
+@Palmeiras 0 - 4 @FortalezaEC",scores/Palmeiras-Fortaleza.jpg,2020-05-19 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @Coritiba",next-match/Santos-Coritiba.jpg,2020-05-19 16:05:00,False
+sc,"Rodada 36 - Jogo 4
+
+@SantosFC 3 - 2 @Coritiba",scores/Santos-Coritiba.jpg,2020-05-19 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @ECBahia",next-match/Atlético Mineiro-Bahia.jpg,2020-05-19 17:05:00,False
+sc,"Rodada 36 - Jogo 5
+
+@Atletico 1 - 1 @ECBahia",scores/Atlético Mineiro-Bahia.jpg,2020-05-19 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @SaoPauloFC",next-match/Grêmio-São Paulo.jpg,2020-05-19 18:05:00,False
+sc,"Rodada 36 - Jogo 6
+
+@Gremio 0 - 1 @SaoPauloFC",scores/Grêmio-São Paulo.jpg,2020-05-19 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @RedBullBraga",next-match/Sport-Red Bull Bragantino.jpg,2020-05-19 19:05:00,False
+sc,"Rodada 36 - Jogo 7
+
+@sportrecife 1 - 1 @RedBullBraga",scores/Sport-Red Bull Bragantino.jpg,2020-05-19 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @ACGOficial",next-match/Athletico Paranaense-Atlético Goianiense.jpg,2020-05-19 20:05:00,False
+sc,"Rodada 36 - Jogo 8
+
+@AthleticoPR 1 - 3 @ACGOficial",scores/Athletico Paranaense-Atlético Goianiense.jpg,2020-05-19 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @FluminenseFC",next-match/Ceará-Fluminense.jpg,2020-05-19 21:05:00,False
+sc,"Rodada 36 - Jogo 9
+
+@CearaSC 0 - 1 @FluminenseFC",scores/Ceará-Fluminense.jpg,2020-05-19 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @Botafogo",next-match/Goiás-Botafogo.jpg,2020-05-19 22:05:00,False
+sc,"Rodada 36 - Jogo 10
+
+@goiasoficial 1 - 2 @Botafogo",scores/Goiás-Botafogo.jpg,2020-05-19 23:00:00,False
+st,Classificação:,standings/36.jpg,2020-05-19 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/37.jpg,2020-05-19 23:10:00,False
+sc,"Rodada 37 - Jogo 1
+
+@Flamengo 1 - 1 @SCInternacional",scores/Flamengo-Internacional.jpg,2020-05-20 14:00:00,False
+nm,"Próximo Jogo
+
+@Botafogo - @SaoPauloFC",next-match/Botafogo-São Paulo.jpg,2020-05-20 14:05:00,False
+sc,"Rodada 37 - Jogo 2
+
+@Botafogo 1 - 2 @SaoPauloFC",scores/Botafogo-São Paulo.jpg,2020-05-20 15:00:00,False
+nm,"Próximo Jogo
+
+@Palmeiras - @ACGOficial",next-match/Palmeiras-Atlético Goianiense.jpg,2020-05-20 15:05:00,False
+sc,"Rodada 37 - Jogo 3
+
+@Palmeiras 1 - 1 @ACGOficial",scores/Palmeiras-Atlético Goianiense.jpg,2020-05-20 16:00:00,False
+nm,"Próximo Jogo
+
+@SantosFC - @FluminenseFC",next-match/Santos-Fluminense.jpg,2020-05-20 16:05:00,False
+sc,"Rodada 37 - Jogo 4
+
+@SantosFC 0 - 0 @FluminenseFC",scores/Santos-Fluminense.jpg,2020-05-20 17:00:00,False
+nm,"Próximo Jogo
+
+@Corinthians - @VascodaGama",next-match/Corinthians-Vasco.jpg,2020-05-20 17:05:00,False
+sc,"Rodada 37 - Jogo 5
+
+@Corinthians 0 - 1 @VascodaGama",scores/Corinthians-Vasco.jpg,2020-05-20 18:00:00,False
+nm,"Próximo Jogo
+
+@Gremio - @AthleticoPR",next-match/Grêmio-Athletico Paranaense.jpg,2020-05-20 18:05:00,False
+sc,"Rodada 37 - Jogo 6
+
+@Gremio 2 - 0 @AthleticoPR",scores/Grêmio-Athletico Paranaense.jpg,2020-05-20 19:00:00,False
+nm,"Próximo Jogo
+
+@sportrecife - @Atletico",next-match/Sport-Atlético Mineiro.jpg,2020-05-20 19:05:00,False
+sc,"Rodada 37 - Jogo 7
+
+@sportrecife 1 - 1 @Atletico",scores/Sport-Atlético Mineiro.jpg,2020-05-20 20:00:00,False
+nm,"Próximo Jogo
+
+@Coritiba - @CearaSC",next-match/Coritiba-Ceará.jpg,2020-05-20 20:05:00,False
+sc,"Rodada 37 - Jogo 8
+
+@Coritiba 0 - 2 @CearaSC",scores/Coritiba-Ceará.jpg,2020-05-20 21:00:00,False
+nm,"Próximo Jogo
+
+@FortalezaEC - @ECBahia",next-match/Fortaleza-Bahia.jpg,2020-05-20 21:05:00,False
+sc,"Rodada 37 - Jogo 9
+
+@FortalezaEC 3 - 2 @ECBahia",scores/Fortaleza-Bahia.jpg,2020-05-20 22:00:00,False
+nm,"Próximo Jogo
+
+@goiasoficial - @RedBullBraga",next-match/Goiás-Red Bull Bragantino.jpg,2020-05-20 22:05:00,False
+sc,"Rodada 37 - Jogo 10
+
+@goiasoficial 2 - 0 @RedBullBraga",scores/Goiás-Red Bull Bragantino.jpg,2020-05-20 23:00:00,False
+st,Classificação:,standings/37.jpg,2020-05-20 23:05:00,False
+nmd,Próxima Rodada:,next-matchday/38.jpg,2020-05-20 23:10:00,False
+sc,"Rodada 38 - Jogo 1
+
+@FluminenseFC 3 - 0 @FortalezaEC",scores/Fluminense-Fortaleza.jpg,2020-05-21 14:00:00,False
+nm,"Próximo Jogo
+
+@VascodaGama - @goiasoficial",next-match/Vasco-Goiás.jpg,2020-05-21 14:05:00,False
+sc,"Rodada 38 - Jogo 2
+
+@VascodaGama 4 - 1 @goiasoficial",scores/Vasco-Goiás.jpg,2020-05-21 15:00:00,False
+nm,"Próximo Jogo
+
+@SaoPauloFC - @Flamengo",next-match/São Paulo-Flamengo.jpg,2020-05-21 15:05:00,False
+sc,"Rodada 38 - Jogo 3
+
+@SaoPauloFC 0 - 0 @Flamengo",scores/São Paulo-Flamengo.jpg,2020-05-21 16:00:00,False
+nm,"Próximo Jogo
+
+@RedBullBraga - @Gremio",next-match/Red Bull Bragantino-Grêmio.jpg,2020-05-21 16:05:00,False
+sc,"Rodada 38 - Jogo 4
+
+@RedBullBraga 5 - 2 @Gremio",scores/Red Bull Bragantino-Grêmio.jpg,2020-05-21 17:00:00,False
+nm,"Próximo Jogo
+
+@Atletico - @Palmeiras",next-match/Atlético Mineiro-Palmeiras.jpg,2020-05-21 17:05:00,False
+sc,"Rodada 38 - Jogo 5
+
+@Atletico 1 - 2 @Palmeiras",scores/Atlético Mineiro-Palmeiras.jpg,2020-05-21 18:00:00,False
+nm,"Próximo Jogo
+
+@SCInternacional - @Corinthians",next-match/Internacional-Corinthians.jpg,2020-05-21 18:05:00,False
+sc,"Rodada 38 - Jogo 6
+
+@SCInternacional 4 - 2 @Corinthians",scores/Internacional-Corinthians.jpg,2020-05-21 19:00:00,False
+nm,"Próximo Jogo
+
+@ECBahia - @SantosFC",next-match/Bahia-Santos.jpg,2020-05-21 19:05:00,False
+sc,"Rodada 38 - Jogo 7
+
+@ECBahia 0 - 1 @SantosFC",scores/Bahia-Santos.jpg,2020-05-21 20:00:00,False
+nm,"Próximo Jogo
+
+@AthleticoPR - @sportrecife",next-match/Athletico Paranaense-Sport.jpg,2020-05-21 20:05:00,False
+sc,"Rodada 38 - Jogo 8
+
+@AthleticoPR 5 - 0 @sportrecife",scores/Athletico Paranaense-Sport.jpg,2020-05-21 21:00:00,False
+nm,"Próximo Jogo
+
+@CearaSC - @Botafogo",next-match/Ceará-Botafogo.jpg,2020-05-21 21:05:00,False
+sc,"Rodada 38 - Jogo 9
+
+@CearaSC 3 - 3 @Botafogo",scores/Ceará-Botafogo.jpg,2020-05-21 22:00:00,False
+nm,"Próximo Jogo
+
+@ACGOficial - @Coritiba",next-match/Atlético Goianiense-Coritiba.jpg,2020-05-21 22:05:00,False
+sc,"Rodada 38 - Jogo 10
+
+@ACGOficial 1 - 1 @Coritiba",scores/Atlético Goianiense-Coritiba.jpg,2020-05-21 23:00:00,False
+st,Classificação:,standings/38.jpg,2020-05-21 23:05:00,False
