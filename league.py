@@ -2,7 +2,6 @@ import random
 import pandas as pd
 import imgkit
 import datetime as dt
-import time
 import data, twitter
 
 INITIAL_DATE = dt.datetime(2020, 4, 14, 14, 0, 0)
