@@ -9,3 +9,4 @@ for i, row in schedule.iterrows():
         twitter.tweet(row["msg"], row["img"])
         row["sent"] = True
         schedule.iloc[i] = row
+        schedule.to_csv("schedule.csv")
